@@ -4,7 +4,8 @@
    {
     "type": "Feature",
     "properties": {
-	"name": "Coyote Motorsports"
+	"name": "Coyote Motorsports",
+	"icon": "images/motorDealer.png"
 	},
     "geometry": {
     "type": "Point",
@@ -18,7 +19,8 @@
    {
     "type": "Feature",
     "properties": {
-	"name": "Vickery Motorsports"
+	"name": "Vickery Motorsports",
+	"icon": "images/motorDealer.png"
 	},
     "geometry": {
     "type": "Point",
@@ -32,7 +34,8 @@
    {
     "type": "Feature",
     "properties": {
-	"name": "LaFore's Motorcycles"
+	"name": "LaFore's Motorcycles",
+	"icon": "images/motorDealer.png"
 	},
     "geometry": {
     "type": "Point",
@@ -46,7 +49,8 @@
    {
     "type": "Feature",
     "properties": {
-	"name": "Motorado"
+	"name": "Motorado",
+	"icon": "images/motorDealer.png"
 	},
     "geometry": {
     "type": "Point",
@@ -60,7 +64,8 @@
    {
     "type": "Feature",
     "properties": {
-	"name": "Indian Motorcycle of Denver"
+	"name": "Indian Motorcycle of Denver",
+	"icon": "images/motorDealer.png"
 	},
     "geometry": {
     "type": "Point",
@@ -73,7 +78,8 @@
    {
     "type": "Feature",
     "properties": {
-	"name": "G-Force Powersports of Lakewood"
+	"name": "G-Force Powersports of Lakewood",
+	"icon": "images/motorDealer.png"
 	},
     "geometry": {
     "type": "Point",
@@ -86,7 +92,8 @@
    {
     "type": "Feature",
     "properties": {
-	"name": "Performance Cycle of Colorado"
+	"name": "Performance Cycle of Colorado",
+	"icon": "images/motorDealer.png"
 	},
     "geometry": {
     "type": "Point",
@@ -99,7 +106,8 @@
    {
     "type": "Feature",
     "properties": {
-	"name": "Aurora Honda"
+	"name": "Aurora Honda",
+	"icon": "images/motorDealer.png"
 	},
     "geometry": {
     "type": "Point",
@@ -112,7 +120,8 @@
    {
     "type": "Feature",
     "properties": {
-	"name": "Steele's Cycles"
+	"name": "Steele's Cycles",
+	"icon": "images/motorDealer.png"
 	},
     "geometry": {
     "type": "Point",
@@ -125,7 +134,8 @@
    {
     "type": "Feature",
     "properties": {
-	"name": "2Wheeler's Motorcycle Shop"
+	"name": "2Wheeler's Motorcycle Shop",
+	"icon": "images/motorDealer.png"
 	},
     "geometry": {
     "type": "Point",
@@ -138,7 +148,8 @@
    {
     "type": "Feature",
     "properties": {
-	"name": "Grand Prix Motorsports"
+	"name": "Grand Prix Motorsports",
+	"icon": "images/motorDealer.png"
 	},
     "geometry": {
     "type": "Point",
@@ -151,7 +162,8 @@
    {
     "type": "Feature",
     "properties": {
-	"name": "BMW of Denver"
+	"name": "BMW of Denver",
+	"icon": "images/motorDealer.png"
 	},
     "geometry": {
     "type": "Point",
@@ -164,7 +176,8 @@
    {
     "type": "Feature",
     "properties": {
-	"name": "Sun Harley-Davidson"
+	"name": "Sun Harley-Davidson",
+	"icon": "images/motorDealer.png"
 	},
     "geometry": {
     "type": "Point",
@@ -177,7 +190,8 @@
    {
     "type": "Feature",
     "properties": {
-	"name": "Fay Myers Motorcycle World"
+	"name": "Fay Myers Motorcycle World",
+	"icon": "images/motorDealer.png"
 	},
     "geometry": {
     "type": "Point",
@@ -190,7 +204,8 @@
    {
     "type": "Feature",
     "properties": {
-	"name": "Erico Motorsports"
+	"name": "Erico Motorsports",
+	"icon": "images/motorDealer.png"
 	},
     "geometry": {
     "type": "Point",
