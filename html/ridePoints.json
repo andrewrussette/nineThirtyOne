@@ -1,0 +1,204 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+   {
+    "type": "Feature",
+    "properties": {
+	"name": "Coyote Motorsports"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.984111,
+	 39.800656
+        ]
+       }
+     },
+
+   {
+    "type": "Feature",
+    "properties": {
+	"name": "Vickery Motorsports"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.872816,
+	 39.675787
+        ]
+       }
+     },
+
+   {
+    "type": "Feature",
+    "properties": {
+	"name": "LaFore's Motorcycles"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-105.053610,
+	 39.719541
+        ]
+       }
+     },
+
+   {
+    "type": "Feature",
+    "properties": {
+	"name": "Motorado"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-105.058226,
+	 39.726413
+        ]
+       }
+     },
+
+   {
+    "type": "Feature",
+    "properties": {
+	"name": "Indian Motorcycle of Denver"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-105.083011,
+	 39.739656
+        ]
+       }
+     },
+   {
+    "type": "Feature",
+    "properties": {
+	"name": "G-Force Powersports of Lakewood"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-105.082999,
+	 39.740059
+        ]
+       }
+     },
+   {
+    "type": "Feature",
+    "properties": {
+	"name": "Performance Cycle of Colorado"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.872615,
+	 39.582985
+        ]
+       }
+     },
+   {
+    "type": "Feature",
+    "properties": {
+	"name": "Aurora Honda"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.827847,
+	 39.712790
+        ]
+       }
+     },
+   {
+    "type": "Feature",
+    "properties": {
+	"name": "Steele's Cycles"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-105.012269,
+	 39.633739
+        ]
+       }
+     },
+   {
+    "type": "Feature",
+    "properties": {
+	"name": "2Wheeler's Motorcycle Shop"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-105.003824,
+	 39.769390
+        ]
+       }
+     },
+   {
+    "type": "Feature",
+    "properties": {
+	"name": "Grand Prix Motorsports"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-105.029220,
+	 39.566849
+        ]
+       }
+     },
+   {
+    "type": "Feature",
+    "properties": {
+	"name": "BMW of Denver"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.869292,
+	 39.588099
+        ]
+       }
+     },
+   {
+    "type": "Feature",
+    "properties": {
+	"name": "Sun Harley-Davidson"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.978324,
+	 39.858201
+        ]
+       }
+     },
+   {
+    "type": "Feature",
+    "properties": {
+	"name": "Fay Myers Motorcycle World"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.875513,
+	 39.593861
+        ]
+       }
+     },
+   {
+    "type": "Feature",
+    "properties": {
+	"name": "Erico Motorsports"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.983122,
+	 39.761927
+        ]
+       }
+     }
+  ]
+}
