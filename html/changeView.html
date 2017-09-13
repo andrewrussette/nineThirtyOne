@@ -2,7 +2,130 @@
 <html>
   <head>
   <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
-  <link rel="stylesheet" href="styling.css">
+	  <style>
+		        html {
+       height: 100%
+      }
+
+      body {
+       height: 100%;
+       margin: 0px;
+       padding: 0px;
+       color: #bbb;
+      }
+
+      a:link {
+       color: DimGray;
+      }
+
+      a:visited {
+       color: DimGray;
+      }
+
+      #map {
+       height:100%;
+      }
+
+      .sidenav {
+       height: 410px;
+       width: 0;
+       position: fixed;
+       z-index: 2;
+       top: 0;
+       left: 0;
+       background-Color:rgba(34,64,144,100);
+       background-position: 10% 88%;
+       overflow-x: hidden;
+       padding-top: 2%;
+       transition: 0.5s;
+       border-radius: 0 15px 15px 0;
+      }
+
+      .sidenav a {
+       padding: 1px 8px 8px 8px;
+       text-decoration: none;
+       font-size: 20px;
+       color: #ffffff;
+       display: block;
+       transition: 0.3s
+      }
+
+      .sidenav a:hover, .offcanvas a:focus{
+       color: #000;
+      }
+
+      .sidenav .closebtn {
+       position: absolute;
+       top: 0;
+       right: 25px;
+       font-size: 40px;
+       margin-left: 30px;
+      }
+
+      #topBar {
+       padding: 5px; /* 15px padding */
+       width: 120px; /* Set a specific width */
+       top: 20px;
+       background-color: #4CAF50;
+       font-size:18px;
+       color: #ffffff;
+       cursor:pointer;
+       background-color:rgba(34,64,144,100);
+       position:absolute;
+       z-index:1;
+       border-radius: 0 5px 5px 0; /* Rounded corners on the top right and bottom right side */
+      }
+
+/*        */
+      .chartNav {
+       height: 310px;
+       width: 0;
+       position: fixed;
+       z-index: 2;
+       background-Color:#fff;
+       background-position: 10% 88%;
+       overflow-x: hidden;
+       overflow-y:hidden;
+       padding-top: 2%;
+              /*padding-left: 2%;*/
+       transition: 0.5s;
+       border-radius: 0 15px 15px 0;
+      }
+
+      .chartNav a {
+       padding: 1px 8px 8px 8px;
+       text-decoration: none;
+       font-size: 20px;
+       color: #555;
+       display: block;
+       transition: 0.3s
+      }
+
+      .chartNav a:hover, .offcanvas a:focus{
+       color: #000;
+      }
+
+      .chartNav .closeChartBtn {
+       position: absolute;
+       top: 0;
+       right: 25px;
+       font-size: 40px;
+       margin-left: 30px;
+      }
+
+      #chartBar {
+       padding: 5px; /* 15px padding */
+       width: 105px; /* Set a specific width */
+       top: 70px;
+       font-size:18px;
+       color: #555;
+       cursor:pointer;
+       background-color:#fff;
+       position:absolute;
+       z-index:1;
+       border-radius: 0 5px 5px 0; /* Rounded corners on the top right and bottom right side */
+      }
+	  </style>
   </head>
    <!-- Cluster Map -->
    <script src="markerclusterer.js"></script>
