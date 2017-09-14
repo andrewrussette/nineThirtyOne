@@ -1,140 +1,61 @@
 <!DOCTYPE html>
 <html>
   <head>
-  <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
-	  <style>
-		        html {
-       height: 100%
-      }
-
-      body {
-       height: 100%;
-       margin: 0px;
-       padding: 0px;
-       color: #bbb;
-      }
-
-      a:link {
-       color: DimGray;
-      }
-
-      a:visited {
-       color: DimGray;
-      }
-
-      #map {
-       height:100%;
-      }
-
-      .sidenav {
-       height: 410px;
-       width: 0;
-       position: fixed;
-       z-index: 2;
-       top: 0;
-       left: 0;
-       background-Color:rgba(34,64,144,100);
-       background-position: 10% 88%;
-       overflow-x: hidden;
-       padding-top: 2%;
-       transition: 0.5s;
-       border-radius: 0 15px 15px 0;
-      }
-
-      .sidenav a {
-       padding: 1px 8px 8px 8px;
-       text-decoration: none;
-       font-size: 20px;
-       color: #ffffff;
-       display: block;
-       transition: 0.3s
-      }
-
-      .sidenav a:hover, .offcanvas a:focus{
-       color: #000;
-      }
-
-      .sidenav .closebtn {
-       position: absolute;
-       top: 0;
-       right: 25px;
-       font-size: 40px;
-       margin-left: 30px;
-      }
-
-      #topBar {
-       padding: 5px; /* 15px padding */
-       width: 120px; /* Set a specific width */
-       top: 20px;
-       background-color: #4CAF50;
-       font-size:18px;
-       color: #ffffff;
-       cursor:pointer;
-       background-color:rgba(34,64,144,100);
-       position:absolute;
-       z-index:1;
-       border-radius: 0 5px 5px 0; /* Rounded corners on the top right and bottom right side */
-      }
-
-/*        */
-      .chartNav {
-       height: 310px;
-       width: 0;
-       position: fixed;
-       z-index: 2;
-       background-Color:#fff;
-       background-position: 10% 88%;
-       overflow-x: hidden;
-       overflow-y:hidden;
-       padding-top: 2%;
-              /*padding-left: 2%;*/
-       transition: 0.5s;
-       border-radius: 0 15px 15px 0;
-      }
-
-      .chartNav a {
-       padding: 1px 8px 8px 8px;
-       text-decoration: none;
-       font-size: 20px;
-       color: #555;
-       display: block;
-       transition: 0.3s
-      }
-
-      .chartNav a:hover, .offcanvas a:focus{
-       color: #000;
-      }
-
-      .chartNav .closeChartBtn {
-       position: absolute;
-       top: 0;
-       right: 25px;
-       font-size: 40px;
-       margin-left: 30px;
-      }
-
-      #chartBar {
-       padding: 5px; /* 15px padding */
-       width: 105px; /* Set a specific width */
-       top: 70px;
-       font-size:18px;
-       color: #555;
-       cursor:pointer;
-       background-color:#fff;
-       position:absolute;
-       z-index:1;
-       border-radius: 0 5px 5px 0; /* Rounded corners on the top right and bottom right side */
-      }
-	  </style>
+   <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <link rel="stylesheet" href="https://andrewrussette.github.io/nineThirtyOne/html/styling.css">
   </head>
-   <!-- Cluster Map -->
-   <script src="markerclusterer.js"></script>
-   <!-- Google Maps -->
-   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCkB_M9WrraNj3msImStY8XFiBv4Dj1w9I&callback=createMap" async defer></script>
-   <!-- Chart -->
-   <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-   <!-- All script -->
-   <script type="text/javascript">
+   <body>
+    <!-- Navigation Panel Begin -->
+    <span id="topBar" onclick="openNav()">Select Month &#9776;</span>
+     <div id="navPanel" class="sidenav">
+      <a href="javascript:void(0)" class="closebtn" onclick="closeNav()"> &times;</a>
+      <a href="#">January</a>
+      <a href="#">February</a>
+      <a href="#">March</a>
+      <a href="#">April</a>
+      <a href="#">May</a>
+      <a href="#">June</a>
+      <a href="#">July</a>
+      <a href="#">August</a>
+      <a href="#">September</a>
+      <a href="#">October</a>
+      <a href="#">November</a>
+      <a href="#">December</a>
+     </div>
+    <div id="main"></div>
+    <!-- Navigation Side Panel End -->
+
+    <!-- Chart Panel Begin -->
+    <span id="chartBar" onclick="openChartNav()">View Chart &emsp;&#9776;</span>
+     <div id="chartPanel" class="chartNav">
+      <a href="javascript:void(0)" class="closeChartBtn" onclick="closeChartNav()"> &times;</a>
+      <div id="columnchart_material" style="padding-left: 10px; width: 800px; height: 500px;"></div>
+     </div>
+    <div id="main"></div>
+    <!-- Chart Side Panel End -->
+
+    <!-- Quick Stats Panel Begin -->
+    <span id="quickBar" onclick="openQuickWindow()">Quick Stats &emsp;&#9776;</span>
+     <div id="quickPanel" class="quickWindow">
+      <a href="javascript:void(0)" class="closePanelBtn" onclick="closeQuickWindow()"> &times;</a>
+      <iframe src="quickStats.html" style="border:none; width: 95%; height: 95%; frameborder: 0;"></iframe>
+     </div>
+    <div id="main"></div>
+    <!-- Quick Stats Side Panel End -->
+
+    <!-- Map Begin -->
+    <div id="map"></div>
+    <!-- Map End -->
+   </body>
+
+    <!-- Cluster Map -->
+    <script src="markerclusterer.js"></script>
+    <!-- Google Maps -->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCC2ZcP0KnGMAtrqXlwvqSZXWz-OhbaQEo&callback=createMap" async defer></script>
+    <!-- Chart -->
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <!-- All script -->
+    <script type="text/javascript">
 
     // Chart Section Begin
     google.charts.load('current', {'packages':['bar']});
@@ -160,12 +81,8 @@
       backgroundColor: 'none',
       width: 700,
       height: 300,
-      fontSize: "12",
-	hAxis: {
-       gridlines: {
-        count: 200,
-        },
-      },
+      fontSize: "14",
+	hAxis: {gridlines: {count: 200,},},
       chart: {
        title: 'Denver Traffic Accidents by Year',
        subtitle: 'From City of Denver Open Data Catalog 2012-2017',
@@ -181,7 +98,7 @@
 
    // Navigation Panel Script Begin
    function openNav() {
-    document.getElementById("navPanel").style.width = "130px";
+    document.getElementById("navPanel").style.width = "150px";
    }
 
    function closeNav() {
@@ -198,6 +115,16 @@
     document.getElementById("chartPanel").style.width = "0";
    }
    // Chart Panel Script End
+
+   // Quick Stats Panel Script Begin
+   function openQuickWindow() {
+    document.getElementById("quickPanel").style.width = "700px";
+   }
+
+   function closeQuickWindow() {
+    document.getElementById("quickPanel").style.width = "0";
+   }
+   // Quick Stats Panel Script End
 
    // Map Options
    function createMap() {
@@ -228,7 +155,7 @@
        'Data licensed under '+
        '<a href="http://creativecommons.org/licenses/by/3.0/">'+
        'CC BY 3.0<a> - Map generated by '+
-       '<a href="https://osullivan-law-firm.com/">'+
+       '<a href="https://www.osullivan-law-firm.com/">'+
        'The O\'Sullivan Law Firm<a></a> '+
        '</div>';
 
@@ -262,7 +189,7 @@
      });
 
      var osullivan = new google.maps.Marker({
-      position: {lat:39.725751, lng:-104.974952},
+      position: {lat:39.725731, lng:-104.974952},
       map: map,
       icon: 'images/osullivan.png'
      });
@@ -319,44 +246,5 @@
 createMap();
 
     </script>
-
-  <body>
-
-   <!-- Navigation Panel Begin -->
-   <span id="topBar" onclick="openNav()">Select Month &#9776;</span>
-
-    <div id="navPanel" class="sidenav">
-     <a href="javascript:void(0)" class="closebtn" onclick="closeNav()"> &times;</a>
-     <a href="#">January</a>
-     <a href="#">February</a>
-     <a href="#">March</a>
-     <a href="#">April</a>
-     <a href="#">May</a>
-     <a href="#">June</a>
-     <a href="#">July</a>
-     <a href="#">August</a>
-     <a href="#">September</a>
-     <a href="#">October</a>
-     <a href="#">November</a>
-     <a href="#">December</a>
-    </div>
-
-   <div id="main"></div>
-   <!-- Navigation Side Panel End -->
-
-   <!-- Chart Panel Begin -->
-   <span id="chartBar" onclick="openChartNav()">View Chart &#9776;</span>
-    <div id="chartPanel" class="chartNav">
-     <a href="javascript:void(0)" class="closeChartBtn" onclick="closeChartNav()"> &times;</a>
-     <div id="columnchart_material" style="padding-left: 10px; width: 800px; height: 500px;"></div>
-    </div>
-   <div id="main"></div>
-   <!-- Chart Side Panel End -->
-
-   <!-- Map Begin -->
-   <div id="map"></div>
-   <!-- Map End -->
-
-  </body>
 
 </html>
