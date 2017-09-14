@@ -2,7 +2,7 @@
 <html>
   <head>
    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
-    <link rel="stylesheet" href="https://andrewrussette.github.io/nineThirtyOne/html/styling.css">
+    <link rel="stylesheet" href="styling.css">
   </head>
    <body>
     <!-- Navigation Panel Begin -->
@@ -43,9 +43,14 @@
     <div id="main"></div>
     <!-- Quick Stats Side Panel End -->
 
+    <div id="legend"><p></p><h3>Legend</h3></div>
+
     <!-- Map Begin -->
     <div id="map"></div>
     <!-- Map End -->
+
+
+
    </body>
 
     <!-- Cluster Map -->
@@ -166,6 +171,20 @@
      map.controls[google.maps.ControlPosition.TOP_CENTER].push(infoText);
      map.controls[google.maps.ControlPosition.BOTTOM_CENTER].push(infoCaption);
      // Map title and caption end
+
+     // Legend Box Begin
+     var legend = document.getElementById('legend');
+      var div = document.createElement('div');
+       legend.appendChild(div);
+        div.innerHTML =
+         '<p><img src="images/m0.png" style="width:14px;height:14px;line-height: 10%;"> Single Incident</p>'+
+         '<p><img src="images/m1.png" style="width:15px;height:15px;line-height: 10%;"> Small Concentration</p>'+
+         '<p><img src="images/m2.png" style="width:16px;height:16px;line-height: 10%;"> Medium Concentration</p>'+
+         '<p><img src="images/m3.png" style="width:17px;height:17px;line-height: 10%;"> Large Concentration</p>'+
+         '<p><img src="images/m4.png" style="width:18px;height:18px;line-height: 10%;"> Very Large Concentration</p>'+
+         '<p><img src="images/m5.png" style="width:19px;height:19px;line-height: 10%;"> Extremely Large Concentration</p>';
+     map.controls[google.maps.ControlPosition.RIGHT_BOTTOM].push(legend);
+     // Legend Box End
 
      // Create the infowindow variable
      var infowindow = new google.maps.InfoWindow();
