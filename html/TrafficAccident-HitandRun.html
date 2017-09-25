@@ -1,0 +1,153 @@
+<html>
+   <head>
+    <link rel="stylesheet" href="styling.css">
+     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+     <script type="text/javascript">
+       google.charts.load('current', {'packages':['corechart', 'line']});
+       google.charts.setOnLoadCallback(drawChart);
+       google.charts.load('current', {'packages':['table']});
+       google.charts.setOnLoadCallback(drawTable);
+
+       function drawChart() {
+         var data = google.visualization.arrayToDataTable([
+['Accidents By Hour', 'January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'],
+['12:00 AM', 12, 11, 17, 12, 16, 17, 13, 15, 14, 15, 12, 15, ],
+['1:00 AM', 12, 13, 12, 12, 14, 14, 12, 13, 11, 18, 14, 13, ],
+['2:00 AM', 13, 13, 15, 18, 15, 17, 13, 15, 13, 19, 13, 16, ],
+['3:00 AM', 9, 6, 9, 12, 11, 11, 9, 13, 11, 11, 7, 10, ],
+['4:00 AM', 7, 5, 4, 5, 7, 6, 7, 6, 6, 7, 6, 5, ],
+['5:00 AM', 5, 3, 4, 5, 6, 5, 4, 5, 6, 5, 6, 5, ],
+['6:00 AM', 6, 5, 5, 6, 5, 5, 7, 6, 6, 7, 5, 5, ],
+['7:00 AM', 15, 14, 14, 12, 17, 12, 9, 13, 13, 16, 14, 14, ],
+['8:00 AM', 21, 22, 18, 21, 22, 17, 16, 19, 20, 20, 19, 22, ],
+['9:00 AM', 23, 21, 16, 21, 19, 19, 18, 21, 20, 22, 21, 17, ],
+['10:00 AM', 21, 21, 18, 19, 22, 19, 17, 25, 23, 23, 22, 22, ],
+['11:00 AM', 25, 23, 21, 21, 26, 23, 20, 25, 19, 24, 24, 21, ],
+['12:00 PM', 27, 28, 25, 29, 28, 27, 24, 27, 25, 24, 24, 27, ],
+['1:00 PM', 24, 25, 26, 29, 31, 27, 25, 26, 26, 32, 21, 28, ],
+['2:00 PM', 27, 24, 24, 25, 27, 28, 26, 30, 27, 29, 25, 27, ],
+['3:00 PM', 31, 28, 28, 28, 32, 32, 27, 30, 28, 30, 27, 35, ],
+['4:00 PM', 31, 31, 36, 33, 34, 32, 27, 31, 33, 36, 29, 32, ],
+['5:00 PM', 37, 36, 36, 35, 40, 36, 35, 32, 34, 40, 33, 35, ],
+['6:00 PM', 33, 32, 29, 29, 37, 37, 29, 37, 29, 36, 36, 37, ],
+['7:00 PM', 35, 23, 30, 25, 29, 33, 26, 30, 32, 31, 24, 31, ],
+['8:00 PM', 22, 23, 21, 19, 24, 21, 24, 28, 25, 28, 24, 22, ],
+['9:00 PM', 23, 18, 20, 21, 25, 22, 22, 20, 21, 22, 19, 20, ],
+['10:00 PM', 21, 18, 21, 25, 22, 32, 27, 28, 23, 25, 22, 23, ],
+['11:00 PM', 16, 14, 20, 16, 21, 22, 20, 18, 19, 20, 18, 21, ],
+]);
+
+         var options = {
+         title: 'Traffic Accident - Hit and Run',
+         titlePosition: 'none',
+         titleTextStyle: {
+          color: 'gray',
+          fontName: 'Arial',
+          fontSize: 16,
+          bold: true
+         },
+         pointsVisible: true,
+         lineWidth: 3,
+         fontSize: 12,
+         chartArea: {
+          top:10,
+          left: 50,
+          width:'78%',
+          height:'80%'
+         },
+         curveType: 'function',
+         legend: {
+          position: 'right'
+         },
+         vAxis: {
+         maxValue:4,
+          minValue: 0,
+          format: 0,
+          viewWindow: {
+            min:0
+            },
+          },
+         hAxis: {
+          showTextEvery: 1,
+          slantedText: true
+         }
+        };
+
+         var chart = new google.visualization.LineChart(document.getElementById('line_chart'));
+
+         chart.draw(data, options);
+       }
+
+        function drawTable() {
+        var data = new google.visualization.DataTable();
+        data.addColumn('string', 'Hour');
+        data.addColumn('number', 'January');
+        data.addColumn('number', 'February');
+        data.addColumn('number', 'March');
+        data.addColumn('number', 'April');
+        data.addColumn('number', 'May');
+        data.addColumn('number', 'June');
+        data.addColumn('number', 'July');
+        data.addColumn('number', 'August');
+        data.addColumn('number', 'September');
+        data.addColumn('number', 'October');
+        data.addColumn('number', 'November');
+        data.addColumn('number', 'December');
+
+        data.addRows([
+['12:00 AM', 12, 11, 17, 12, 16, 17, 13, 15, 14, 15, 12, 15, ],
+['1:00 AM', 12, 13, 12, 12, 14, 14, 12, 13, 11, 18, 14, 13, ],
+['2:00 AM', 13, 13, 15, 18, 15, 17, 13, 15, 13, 19, 13, 16, ],
+['3:00 AM', 9, 6, 9, 12, 11, 11, 9, 13, 11, 11, 7, 10, ],
+['4:00 AM', 7, 5, 4, 5, 7, 6, 7, 6, 6, 7, 6, 5, ],
+['5:00 AM', 5, 3, 4, 5, 6, 5, 4, 5, 6, 5, 6, 5, ],
+['6:00 AM', 6, 5, 5, 6, 5, 5, 7, 6, 6, 7, 5, 5, ],
+['7:00 AM', 15, 14, 14, 12, 17, 12, 9, 13, 13, 16, 14, 14, ],
+['8:00 AM', 21, 22, 18, 21, 22, 17, 16, 19, 20, 20, 19, 22, ],
+['9:00 AM', 23, 21, 16, 21, 19, 19, 18, 21, 20, 22, 21, 17, ],
+['10:00 AM', 21, 21, 18, 19, 22, 19, 17, 25, 23, 23, 22, 22, ],
+['11:00 AM', 25, 23, 21, 21, 26, 23, 20, 25, 19, 24, 24, 21, ],
+['12:00 PM', 27, 28, 25, 29, 28, 27, 24, 27, 25, 24, 24, 27, ],
+['1:00 PM', 24, 25, 26, 29, 31, 27, 25, 26, 26, 32, 21, 28, ],
+['2:00 PM', 27, 24, 24, 25, 27, 28, 26, 30, 27, 29, 25, 27, ],
+['3:00 PM', 31, 28, 28, 28, 32, 32, 27, 30, 28, 30, 27, 35, ],
+['4:00 PM', 31, 31, 36, 33, 34, 32, 27, 31, 33, 36, 29, 32, ],
+['5:00 PM', 37, 36, 36, 35, 40, 36, 35, 32, 34, 40, 33, 35, ],
+['6:00 PM', 33, 32, 29, 29, 37, 37, 29, 37, 29, 36, 36, 37, ],
+['7:00 PM', 35, 23, 30, 25, 29, 33, 26, 30, 32, 31, 24, 31, ],
+['8:00 PM', 22, 23, 21, 19, 24, 21, 24, 28, 25, 28, 24, 22, ],
+['9:00 PM', 23, 18, 20, 21, 25, 22, 22, 20, 21, 22, 19, 20, ],
+['10:00 PM', 21, 18, 21, 25, 22, 32, 27, 28, 23, 25, 22, 23, ],
+['11:00 PM', 16, 14, 20, 16, 21, 22, 20, 18, 19, 20, 18, 21, ],
+]);
+
+var table = new google.visualization.Table(document.getElementById('table'));
+
+        table.draw(data, {
+         showRowNumber: false,
+         width: '770px',
+         height: '200px',
+        });
+
+       }
+
+      </script>
+   </head>
+   <body>
+     <p style="font-weight: bold">&nbsp;Traffic Accident - Hit and Run Averages By Hour</p>
+     <div id="line_chart" style="width: 770px; height: 300px"></div>
+     <br>
+     <div id="table" style="table"></div>
+     <div id="chartTag01">
+      <p>Chart represents averages per hour for each month over the entire data collection period.</p>
+      <p>Data presented in table are averages per hour for each month over the entire data collection period.</p>
+      Map generated from <a href="http://data.denvergov.org">
+      City of Denver Open Data Catalog<a>
+      Data licensed under
+      <a href="http://creativecommons.org/licenses/by/3.0/">
+      CC BY 3.0<a> - Chart generated by
+      <a href="https://www.osullivan-law-firm.com/">
+      The O'Sullivan Law Firm<a></a>
+     </div>
+   </body>
+ </html>
