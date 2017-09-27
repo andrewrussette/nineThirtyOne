@@ -6,7 +6,7 @@
   </head>
    <body>
     <!-- Navigation Panel Begin -->
-    <span id="topBar" onclick="openNav()">Select Month &#9776;</span>
+    <span id="topBar" onclick="openNav()">Select Month&nbsp;&nbsp;<img src="images/cal.png" align="right"  height="20" width="20" align="top"></span>
      <div id="navPanel" class="sidenav">
       <a href="javascript:void(0)" class="closebtn" onclick="closeNav()"> &times;</a>
       <a href="January.html">January</a>
@@ -25,13 +25,22 @@
     <div id="main"></div>
     <!-- Navigation Side Panel End -->
 
+    <!-- Quick Stats Panel Begin -->
+    <span id="quickBar" onclick="openQuickWindow()">Quick Stats&nbsp;&nbsp;<img src="images/cha.png" align="right"  height="20" width="20" align="top"></span>
+     <div id="quickPanel" class="quickWindow">
+      <a href="javascript:void(0)" class="closePanelBtn" onclick="closeQuickWindow()"> &times;</a>
+      <iframe src="quickStats.html" style="border:none; width: 95%; height: 95%; frameborder: 0;"></iframe>
+     </div>
+    <div id="main"></div>
+    <!-- Quick Stats Side Panel End -->
+
     <!-- Chart Tab Begin -->
     <span id="chartTab"></span><div id="chartTab"><p>Charts by Category</p></div>
     <div id="main"></div>
     <!-- Chart Tab End -->
 
     <!-- Chart Panel01 Begin -->
-    <span id="chartBar01" onclick="openChartNav01()">Traffic Accident</span>
+    <span id="chartBar01" onclick="openChartNav01()">Traffic Accident&nbsp;&nbsp;<img src="images/clo.png" align="right"  height="20" width="20" align="top"></span>
      <div id="chartPanel01" class="chartNav">
       <a href="javascript:void(0)" class="closeChartBtn" onclick="closeChartNav01()"> &times;</a>
       <iframe src="TrafficAccident.html" style="overflow: hidden; border:none; width: 95%; height: 95%; frameborder: 0;"></iframe>
@@ -40,58 +49,67 @@
     <!-- Chart Side Panel01 End -->
 
     <!-- Chart Panel02 Begin -->
-    <span id="chartBar02" onclick="openChartNav02()">DUI DUID</span>
+    <span id="chartBar02" onclick="openChartNav02()">Traffic Accident&nbsp;&nbsp;<img src="images/cal.png" align="right" height="20" width="20" align="top"></span>
      <div id="chartPanel02" class="chartNav">
       <a href="javascript:void(0)" class="closeChartBtn" onclick="closeChartNav02()"> &times;</a>
-      <iframe src="TrafficAccident-DUIDUID.html" style="overflow: hidden; border:none; width: 95%; height: 95%; frameborder: 0;"></iframe>
+      <iframe src="byDay-TrafficAccident.html" style="overflow: hidden; border:none; width: 95%; height: 95%; frameborder: 0;"></iframe>
      </div>
     <div id="main"></div>
     <!-- Chart Side Panel02 End -->
 
     <!-- Chart Panel03 Begin -->
-    <span id="chartBar03" onclick="openChartNav03()">Fatalities</span>
+    <span id="chartBar03" onclick="openChartNav03()">DUI/DUID&nbsp;&nbsp;<img src="images/clo.png" align="right" height="20" width="20" align="top"></span>
      <div id="chartPanel03" class="chartNav">
       <a href="javascript:void(0)" class="closeChartBtn" onclick="closeChartNav03()"> &times;</a>
-      <iframe src="TrafficAccident-Fatality.html" style="overflow: hidden; border:none; width: 95%; height: 95%; frameborder: 0;"></iframe>
+      <iframe src="TrafficAccident-DUIDUID.html" style="overflow: hidden; border:none; width: 95%; height: 95%; frameborder: 0;"></iframe>
      </div>
     <div id="main"></div>
     <!-- Chart Side Panel03 End -->
 
     <!-- Chart Panel04 Begin -->
-    <span id="chartBar04" onclick="openChartNav04()">Hit and Run</span>
+    <span id="chartBar04" onclick="openChartNav04()">DUI/DUID&nbsp;&nbsp;<img src="images/cal.png" align="right" height="20" width="20" align="top"></span>
      <div id="chartPanel04" class="chartNav">
       <a href="javascript:void(0)" class="closeChartBtn" onclick="closeChartNav04()"> &times;</a>
-      <iframe src="TrafficAccident-HitandRun.html" style="overflow: hidden; border:none; width: 95%; height: 95%; frameborder: 0;"></iframe>
+      <iframe src="byDay-TrafficAccident-DUIDUID.html" style="overflow: hidden; border:none; width: 95%; height: 95%; frameborder: 0;"></iframe>
      </div>
     <div id="main"></div>
     <!-- Chart Side Panel04 End -->
 
     <!-- Chart Panel05 Begin -->
-    <span id="chartBar05" onclick="openChartNav05()">Police</span>
+    <span id="chartBar05" onclick="openChartNav05()">Hit and Run&nbsp;&nbsp;<img src="images/clo.png" align="right" height="20" width="20" align="top"></span>
      <div id="chartPanel05" class="chartNav">
       <a href="javascript:void(0)" class="closeChartBtn" onclick="closeChartNav05()"> &times;</a>
-      <iframe src="TrafficAccident-Police.html" style="overflow: hidden; border:none; width: 95%; height: 95%; frameborder: 0;"></iframe>
+      <iframe src="TrafficAccident-HitandRun.html" style="overflow: hidden; border:none; width: 95%; height: 95%; frameborder: 0;"></iframe>
      </div>
     <div id="main"></div>
     <!-- Chart Side Panel05 End -->
 
     <!-- Chart Panel06 Begin -->
-    <span id="chartBar06" onclick="openChartNav06()">Serious Bodily Injury</span>
+    <span id="chartBar06" onclick="openChartNav06()">Hit and Run&nbsp;&nbsp;<img src="images/cal.png" align="right" height="20" width="20" align="top"></span>
      <div id="chartPanel06" class="chartNav">
       <a href="javascript:void(0)" class="closeChartBtn" onclick="closeChartNav06()"> &times;</a>
-      <iframe src="TrafficAccident-SeriousBodilyInjury.html" style="overflow: hidden; border:none; width: 95%; height: 95%; frameborder: 0;"></iframe>
+      <iframe src="byDay-TrafficAccident-HitandRun.html" style="overflow: hidden; border:none; width: 95%; height: 95%; frameborder: 0;"></iframe>
      </div>
     <div id="main"></div>
     <!-- Chart Side Panel06 End -->
 
-    <!-- Quick Stats Panel Begin -->
-    <span id="quickBar" onclick="openQuickWindow()">Quick Stats &emsp;&#9776;</span>
-     <div id="quickPanel" class="quickWindow">
-      <a href="javascript:void(0)" class="closePanelBtn" onclick="closeQuickWindow()"> &times;</a>
-      <iframe src="quickStats.html" style="border:none; width: 95%; height: 95%; frameborder: 0;"></iframe>
+    <!-- Chart Panel07 Begin -->
+    <span id="chartBar07" onclick="openChartNav07()">Fatalities&nbsp;&nbsp;<img src="images/cal.png" align="right" height="20" width="20" align="top"></span>
+     <div id="chartPanel07" class="chartNav">
+      <a href="javascript:void(0)" class="closeChartBtn" onclick="closeChartNav07()"> &times;</a>
+      <iframe src="TrafficAccident-Fatality.html" style="overflow: hidden; border:none; width: 95%; height: 95%; frameborder: 0;"></iframe>
      </div>
     <div id="main"></div>
-    <!-- Quick Stats Side Panel End -->
+    <!-- Chart Side Panel07 End -->
+
+    <!-- Chart Panel08 Begin -->
+    <span id="chartBar08" onclick="openChartNav08()">Serious Bodily Injury&nbsp;&nbsp;<img src="images/cal.png" align="right" height="20" width="20" align="top"></span>
+     <div id="chartPanel08" class="chartNav">
+      <a href="javascript:void(0)" class="closeChartBtn" onclick="closeChartNav08()"> &times;</a>
+      <iframe src="TrafficAccident-SeriousBodilyInjury.html" style="overflow: hidden; border:none; width: 95%; height: 95%; frameborder: 0;"></iframe>
+     </div>
+    <div id="main"></div>
+    <!-- Chart Side Panel08 End -->
 
     <div id="legend"><p></p><h3>Legend</h3></div>
 
@@ -125,6 +143,10 @@
    function closeChartNav05() {document.getElementById("chartPanel05").style.width = "0";}
    function openChartNav06() {document.getElementById("chartPanel06").style.width = "850px";}
    function closeChartNav06() {document.getElementById("chartPanel06").style.width = "0";}
+   function openChartNav07() {document.getElementById("chartPanel07").style.width = "850px";}
+   function closeChartNav07() {document.getElementById("chartPanel07").style.width = "0";}
+   function openChartNav08() {document.getElementById("chartPanel08").style.width = "850px";}
+   function closeChartNav08() {document.getElementById("chartPanel08").style.width = "0";}
    // Chart Panel Script End
 
    // Quick Stats Panel Script Begin
@@ -146,7 +168,8 @@
 
     // Map title and caption begin
      var infoTitle = document.createElement('h2');
-      infoTitle.style.color = '#2C3E50';        infoTitle.innerHTML = 'Denver Accidents August, 2017';
+      infoTitle.style.color = '#2C3E50';
+              infoTitle.innerHTML = 'Denver Accidents August, 2017';
 var infoText = document.createElement('div');
       infoText.appendChild(infoTitle);
 
