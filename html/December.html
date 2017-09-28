@@ -122,7 +122,7 @@
     <!-- Cluster Map -->
     <script src="markerclusterer.js"></script>
     <!-- Google Maps -->
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCC2ZcP0KnGMAtrqXlwvqSZXWz-OhbaQEo&callback=createMap" async defer></script>
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCC2ZcP0KnGMAtrqXlwvqSZXWz-OhbaQEo"></script>
     <!-- All script -->
     <script type="text/javascript">
    // Navigation Panel Script Begin
@@ -150,7 +150,7 @@
    // Chart Panel Script End
 
    // Quick Stats Panel Script Begin
-   function openQuickWindow() {document.getElementById("quickPanel").style.width = "720px";}
+   function openQuickWindow() {document.getElementById("quickPanel").style.width = "850px";}
    function closeQuickWindow() {document.getElementById("quickPanel").style.width = "0";}
    // Quick Stats Panel Script End
 
@@ -169,7 +169,7 @@
     // Map title and caption begin
      var infoTitle = document.createElement('h2');
       infoTitle.style.color = '#2C3E50';
-              infoTitle.innerHTML = 'Denver Accidents December, 2016';
+        infoTitle.innerHTML = 'Denver Accidents December, 2016';
 var infoText = document.createElement('div');
       infoText.appendChild(infoTitle);
 
@@ -243,7 +243,7 @@ var infoText = document.createElement('div');
      // Create individual data layers and apply individual properties
      // Accident layer begin
      var accidentLayer = new google.maps.Data();
-      accidentLayer.loadGeoJson('https://andrewrussette.github.io/nineThirtyOne/html/December.json', null, function (features) {
+      accidentLayer.loadGeoJson('https://andrewrussette.github.io/nineThirtyOne/html/json/December.json', null, function (features) {
 accidentLayer.setStyle({visible: false});
 
       var accidents = features.map(function (feature) {
@@ -261,7 +261,7 @@ accidentLayer.setStyle({visible: false});
 
      // Ridepoint layer begin
      var ridepointLayer = new google.maps.Data();
-      ridepointLayer.loadGeoJson('https://andrewrussette.github.io/nineThirtyOne/html/ridePoints.json');
+      ridepointLayer.loadGeoJson('https://andrewrussette.github.io/nineThirtyOne/html/json/ridePoints.json');
       ridepointLayer.setStyle(function(feature) {
        return {icon:feature.getProperty('icon')};
       });

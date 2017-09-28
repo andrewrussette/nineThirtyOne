@@ -63,10 +63,10 @@ a:visited {
 
 #topBar {
     padding: 5px;
-    width: 135px;
+    width: 155px;
     top: 20px;
     background-color: #0069B3;
-    font-size:18px;
+    font-size:16px;
     color: #ffffff;
     cursor:pointer;
     position:absolute;
@@ -76,11 +76,11 @@ a:visited {
     }
 
 .quickWindow {
-    height: 210px;
-    width: 0;
+    height: 270px;
+    width: 0px;
     position: fixed;
     z-index: 3;
-    background-Color: #008DF1;
+    background-Color: #fff;
     background-position: 10% 88%;
     overflow-x: hidden;
     overflow-y:hidden;
@@ -100,9 +100,9 @@ a:visited {
 
 #quickBar {
     padding: 5px;
-    width: 135px;
-    top: 70px;
-    font-size:18px;
+    width: 155px;
+    top: 55px;
+    font-size:16px;
     color: white;
     cursor:pointer;
     background-color: #008DF1;
@@ -118,7 +118,7 @@ a:visited {
     padding-top: 1px;
     width: 100px;
     height: 360px;
-    top: 120px;
+    top: 90px;
     font-size:18px;
     color: white;
     background-color:#0069B3;
@@ -164,9 +164,9 @@ a:visited {
 
 #chartBar01 {
     padding: 3px;
-    width: 137px;
-    top: 200px;
-    font-size:16px;
+    width: 155px;
+    top: 160px;
+    font-size:15px;
     color: #555;
     cursor:pointer;
     background-color:#fff;
@@ -183,9 +183,9 @@ a:visited {
 
 #chartBar02 {
     padding: 3px;
-    width: 137px;
-    top: 235px;
-    font-size:16px;
+    width: 155px;
+    top: 195px;
+    font-size:15px;
     color: #555;
     cursor:pointer;
     background-color:#fff;
@@ -202,9 +202,9 @@ a:visited {
 
 #chartBar03 {
     padding: 3px;
-    width: 137px;
-    top: 270px;
-    font-size:16px;
+    width: 155px;
+    top: 230px;
+    font-size:15px;
     color: #555;
     cursor:pointer;
     background-color:#fff;
@@ -221,9 +221,9 @@ a:visited {
 
 #chartBar04 {
     padding: 3px;
-    width: 137px;
-    top: 305px;
-    font-size:16px;
+    width: 155px;
+    top: 265px;
+    font-size:15px;
     color: #555;
     cursor:pointer;
     background-color:#fff;
@@ -240,9 +240,9 @@ a:visited {
 
 #chartBar05 {
     padding: 3px;
-    width: 137px;
-    top: 340px;
-    font-size:16px;
+    width: 155px;
+    top: 300px;
+    font-size:15px;
     color: #555;
     cursor:pointer;
     background-color:#fff;
@@ -259,8 +259,8 @@ a:visited {
 
 #chartBar06 {
     padding: 3px;
-    width: 137px;
-    top: 375px;
+    width: 155px;
+    top: 335px;
     font-size:14px;
     color: #555;
     cursor:pointer;
@@ -278,8 +278,8 @@ a:visited {
 
 #chartBar07 {
     padding: 3px;
-    width: 137px;
-    top: 410px;
+    width: 155px;
+    top: 370px;
     font-size:14px;
     color: #555;
     cursor:pointer;
@@ -297,8 +297,8 @@ a:visited {
 
 #chartBar08 {
     padding: 3px;
-    width: 137px;
-    top: 445px;
+    width: 155px;
+    top: 405px;
     padding-top: 2px;
     font-size:12px;
     color: #555;
@@ -318,9 +318,9 @@ a:visited {
 #legend {
     padding-top: 1px;
     padding-left: 3px;
-    width: 220px;
+    width: 240px;
     height: 220px;
-    top: 68%;
+    top: 59%;
     font-size:14px;
     color: #fff;
     cursor:pointer;
