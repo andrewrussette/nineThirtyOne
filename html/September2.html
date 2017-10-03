@@ -201,12 +201,12 @@ var infoText = document.createElement('div');
       var div = document.createElement('div');
        legend.appendChild(div);
         div.innerHTML =
-         '<p><img src="images/m0.png" style="width:14px;height:14px;line-height: 10%;"> Single Incident</p>'+
-         '<p><img src="images/m1.png" style="width:15px;height:15px;line-height: 10%;"> Small Concentration</p>'+
-         '<p><img src="images/m2.png" style="width:16px;height:16px;line-height: 10%;"> Medium Concentration</p>'+
-         '<p><img src="images/m3.png" style="width:17px;height:17px;line-height: 10%;"> Large Concentration</p>'+
-         '<p><img src="images/m4.png" style="width:18px;height:18px;line-height: 10%;"> Very Large Concentration</p>'+
-         '<p><img src="images/m5.png" style="width:19px;height:19px;line-height: 10%;"> Extremely Large Concentration</p>';
+         '<p><img src="images/dot-0.png"> Traffic Accident</p>'+
+         '<p><img src="images/dot-1.png"> DUI / DUID</p>'+
+         '<p><img src="images/dot-2.png"> Fatality</p>'+
+         '<p><img src="images/dot-3.png"> Hit and Run</p>'+
+         '<p><img src="images/dot-4.png"> Police</p>'+
+         '<p><img src="images/dot-5.png"> Serious Bodily Injury</p>';
      map.controls[google.maps.ControlPosition.RIGHT_BOTTOM].push(legend);
      // Legend Box End
 
@@ -245,19 +245,21 @@ var infoText = document.createElement('div');
      // Create individual data layers and apply individual properties
      // Accident layer begin
      var accidentLayer = new google.maps.Data();
-      accidentLayer.loadGeoJson('https://andrewrussette.github.io/nineThirtyOne/html/json/September.json', null, function (features) {
-accidentLayer.setStyle({visible: false});
-
-      var accidents = features.map(function (feature) {
-       var geo = feature.getGeometry();
-       var marker = new google.maps.Marker({
-        position: geo.get(0),
-        icon: 'images/a3.png',
-        label: '1',
-       });
-       return marker;
+      accidentLayer.loadGeoJson('https://andrewrussette.github.io/nineThirtyOne/html/json/April-test.json');
+      accidentLayer.setStyle(function(feature) {
+       return {icon:feature.getProperty('icon'),
+       size: new google.maps.Size(20, 32),};
       });
-      var markerCluster = new MarkerClusterer(map, accidents,{ imagePath: 'images/m' });
+
+      // When the user clicks, open an infowindow
+      accidentLayer.addListener('click', function(event) {
+       var infoTag = event.feature.getProperty("name");
+       infowindow.setContent("<div style='color: black;'>"+infoTag+"</div>");
+       // position the infowindow on the marker
+       infowindow.setPosition(event.feature.getGeometry().get());
+       // anchor the infowindow on the marker
+       infowindow.setOptions({pixelOffset: new google.maps.Size(0,-10)});
+       infowindow.open(map);
       });
      // Accident layer end
 
