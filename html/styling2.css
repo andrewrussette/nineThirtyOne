@@ -25,7 +25,7 @@ a:visited {
     }
 
 .sidenav {
-    height: 450px;
+    height: 400px;
     width: 0;
     position: fixed;
     z-index: 3;
