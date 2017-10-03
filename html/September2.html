@@ -37,7 +37,7 @@
     <!-- Chart Tab Begin -->
     <span id="chartsTab" onclick="openChartTab()">Charts&nbsp;&nbsp;<img src="images/cha.png" align="right"  height="20" width="20" align="top"></span>
      <div id="chartsTabPanel" class="chartTab">
-      <a href="javascript:void(0)" class="closeChartBtn" onclick="closeChartTab()"> &times;</a>
+      <a href="javascript:void(0)" class="closeBut" onclick="closeChartTab()">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 
           <!-- Chart Panel01 Begin -->
 	  <span id="chartBar01" onclick="openChartNav01()">Traffic Accident&nbsp;&nbsp;<img src="images/clo.png" align="right"  height="20" width="20" align="top"></span>
@@ -128,7 +128,7 @@
    // Navigation Panel Script End
 
    // Quick Stats Panel Script Begin
-   function openQuickWindow() {document.getElementById("quickPanel").style.width = "850px";}
+   function openQuickWindow() {document.getElementById("quickPanel").style.width = "100%";}
    function closeQuickWindow() {document.getElementById("quickPanel").style.width = "0";}
    // Quick Stats Panel Script End
 
@@ -136,7 +136,7 @@
    function openChartTab() {document.getElementById("chartsTabPanel").style.width = "170px";}
    function closeChartTab() {document.getElementById("chartsTabPanel").style.width = "0";}
 
-     function openChartNav01() {document.getElementById("chartPanel01").style.width = "850px";}
+     function openChartNav01() {document.getElementById("chartPanel01").style.width = "100%";}
      function closeChartNav01() {document.getElementById("chartPanel01").style.width = "0";}
      function openChartNav02() {document.getElementById("chartPanel02").style.width = "850px";}
      function closeChartNav02() {document.getElementById("chartPanel02").style.width = "0";}
