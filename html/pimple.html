@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html>
+  <head>
+     <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <link rel="stylesheet" href="styling2.css">
+  </head>
+  <body>
+
+    <!-- Navigation Panel -->
+    <span id="topBar" onclick="openNav()">By Month&nbsp;&nbsp;<img src="images/cal.png" align="right"  height="20" width="20" align="top"></span>
+    <div id="navPanel" class="sidenav">
+      <a href="javascript:void(0)" class="closebtn" onclick="closeNav()"> &times;</a>
+      <a href="January.html">January</a>
+      <a href="February.html">February</a>
+      <a href="March.html">March</a>
+      <a href="April.html">April</a>
+      <a href="May.html">May</a>
+      <a href="June.html">June</a>
+      <a href="July.html">July</a>
+      <a href="August.html">August</a>
+      <a href="September.html">September</a>
+      <a href="October.html">October</a>
+      <a href="November.html">November</a>
+      <a href="December.html">December</a>
+    </div>
+
+    <!-- Quick Stats Panel -->
+    <span id="quickBar" onclick="openQuickWindow()">Summary&nbsp;&nbsp;<img src="images/cha.png" align="right"  height="20" width="20" align="top"></span>
+    <div id="quickPanel" class="quickWindow">
+      <a href="javascript:void(0)" class="closePanelBtn" onclick="closeQuickWindow()"> &times;</a>
+      <iframe src="quickStats.html" style="border:none; width: 95%; height: 95%; frameborder: 0;"></iframe>
+    </div>
+
+    <!-- Chart Tab -->
+    <span id="chartsTab" onclick="openChartTab()">Charts&nbsp;&nbsp;<img src="images/cha.png" align="right"  height="20" width="20" align="top"></span>
+    <div id="chartsTabPanel" class="chartTab">
+      <a href="javascript:void(0)" class="closeBut" onclick="closeChartTab()">&times;</a>
+
+       <!-- Chart Panel01 -->
+       <span id="chartBar01" onclick="openChartNav01()">Traffic Accident&nbsp;&nbsp;<img src="images/clo.png" align="right"  height="20" width="20" align="top"></span>
+       <div id="chartPanel01" class="chartNav">
+	 <a href="javascript:void(0)" class="closeChartBtn" onclick="closeChartNav01()"> &times;</a>
+	 <iframe src="TrafficAccident.html" style="overflow: hidden; border:none; width: 95%; height: 95%; frameborder: 0;"></iframe>
+       </div>
+
+       <!-- Chart Panel02 -->
+       <span id="chartBar02" onclick="openChartNav02()">Traffic Accident&nbsp;&nbsp;<img src="images/cal.png" align="right" height="20" width="20" align="top"></span>
+       <div id="chartPanel02" class="chartNav">
+         <a href="javascript:void(0)" class="closeChartBtn" onclick="closeChartNav02()"> &times;</a>
+	 <iframe src="byDay-TrafficAccident.html" style="overflow: hidden; border:none; width: 95%; height: 95%; frameborder: 0;"></iframe>
+       </div>
+
+       <!-- Chart Panel03 -->
+       <span id="chartBar03" onclick="openChartNav03()">DUI/DUID&nbsp;&nbsp;<img src="images/clo.png" align="right" height="20" width="20" align="top"></span>
+       <div id="chartPanel03" class="chartNav">
+         <a href="javascript:void(0)" class="closeChartBtn" onclick="closeChartNav03()"> &times;</a>
+         <iframe src="TrafficAccident-DUIDUID.html" style="overflow: hidden; border:none; width: 95%; height: 95%; frameborder: 0;"></iframe>
+       </div>
+
+       <!-- Chart Panel04 -->
+       <span id="chartBar04" onclick="openChartNav04()">DUI/DUID&nbsp;&nbsp;<img src="images/cal.png" align="right" height="20" width="20" align="top"></span>
+       <div id="chartPanel04" class="chartNav">
+         <a href="javascript:void(0)" class="closeChartBtn" onclick="closeChartNav04()"> &times;</a>
+         <iframe src="byDay-TrafficAccident-DUIDUID.html" style="overflow: hidden; border:none; width: 95%; height: 95%; frameborder: 0;"></iframe>
+       </div>
+
+       <!-- Chart Panel05 -->
+       <span id="chartBar05" onclick="openChartNav05()">Hit and Run&nbsp;&nbsp;<img src="images/clo.png" align="right" height="20" width="20" align="top"></span>
+       <div id="chartPanel05" class="chartNav">
+         <a href="javascript:void(0)" class="closeChartBtn" onclick="closeChartNav05()"> &times;</a>
+         <iframe src="TrafficAccident-HitandRun.html" style="overflow: hidden; border:none; width: 95%; height: 95%; frameborder: 0;"></iframe>
+       </div>
+
+      <!-- Chart Panel06 -->
+      <span id="chartBar06" onclick="openChartNav06()">Hit and Run&nbsp;&nbsp;<img src="images/cal.png" align="right" height="20" width="20" align="top"></span>
+      <div id="chartPanel06" class="chartNav">
+        <a href="javascript:void(0)" class="closeChartBtn" onclick="closeChartNav06()"> &times;</a>
+        <iframe src="byDay-TrafficAccident-HitandRun.html" style="overflow: hidden; border:none; width: 95%; height: 95%; frameborder: 0;"></iframe>
+      </div>
+
+      <!-- Chart Panel07 -->
+      <span id="chartBar07" onclick="openChartNav07()">Fatalities&nbsp;&nbsp;<img src="images/cal.png" align="right" height="20" width="20" align="top"></span>
+      <div id="chartPanel07" class="chartNav">
+        <a href="javascript:void(0)" class="closeChartBtn" onclick="closeChartNav07()"> &times;</a>
+        <iframe src="TrafficAccident-Fatality.html" style="overflow: hidden; border:none; width: 95%; height: 95%; frameborder: 0;"></iframe>
+      </div>
+
+      <!-- Chart Panel08 -->
+      <span id="chartBar08" onclick="openChartNav08()">Serious Bodily Injury&nbsp;&nbsp;<img src="images/cal.png" align="right" height="20" width="20" align="top"></span>
+      <div id="chartPanel08" class="chartNav">
+        <a href="javascript:void(0)" class="closeChartBtn" onclick="closeChartNav08()"> &times;</a>
+        <iframe src="TrafficAccident-SeriousBodilyInjury.html" style="overflow: hidden; border:none; width: 95%; height: 95%; frameborder: 0;"></iframe>
+      </div>
+
+    </div>
+
+    <!-- Map -->
+    <div id="map"></div>
+
+    <!-- Map Legend -->
+    <div id="legend"><p></p><b>Legend</b></div>
+
+    <script>
+
+     // Navigation Panel Script
+     function openNav() {document.getElementById("navPanel").style.width = "150px";}
+     function closeNav() {document.getElementById("navPanel").style.width = "0";}
+
+     // Quick Stats Panel Script Begin
+     function openQuickWindow() {document.getElementById("quickPanel").style.width = "100%";}
+     function closeQuickWindow() {document.getElementById("quickPanel").style.width = "0";}
+
+     // Chart Panel Script Begin
+     function openChartTab() {document.getElementById("chartsTabPanel").style.width = "100%";}
+     function closeChartTab() {document.getElementById("chartsTabPanel").style.width = "0";}
+
+       function openChartNav01() {document.getElementById("chartPanel01").style.width = "100%";}
+       function closeChartNav01() {document.getElementById("chartPanel01").style.width = "0";}
+       function openChartNav02() {document.getElementById("chartPanel02").style.width = "100%";}
+       function closeChartNav02() {document.getElementById("chartPanel02").style.width = "0";}
+       function openChartNav03() {document.getElementById("chartPanel03").style.width = "100%";}
+       function closeChartNav03() {document.getElementById("chartPanel03").style.width = "0";}
+       function openChartNav04() {document.getElementById("chartPanel04").style.width = "100%";}
+       function closeChartNav04() {document.getElementById("chartPanel04").style.width = "0";}
+       function openChartNav05() {document.getElementById("chartPanel05").style.width = "100%";}
+       function closeChartNav05() {document.getElementById("chartPanel05").style.width = "0";}
+       function openChartNav06() {document.getElementById("chartPanel06").style.width = "100%";}
+       function closeChartNav06() {document.getElementById("chartPanel06").style.width = "0";}
+       function openChartNav07() {document.getElementById("chartPanel07").style.width = "100%";}
+       function closeChartNav07() {document.getElementById("chartPanel07").style.width = "0";}
+       function openChartNav08() {document.getElementById("chartPanel08").style.width = "100%";}
+       function closeChartNav08() {document.getElementById("chartPanel08").style.width = "0";}
+
+     function initMap() {
+       var denver = {lat: 39.730157, lng: -104.984694};
+        map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 12,
+          center: denver,
+          disableDefaultUI: true,
+          zoomControl: true
+        });
+
+        osullivan();
+        accidentMap();
+
+        // Map title and caption begin
+        var infoTitle = document.createElement('h2');
+        infoTitle.style.color = '#2C3E50';
+        infoTitle.innerHTML = 'Denver Accidents September, 2017';
+        var infoText = document.createElement('div');
+        infoText.appendChild(infoTitle);
+
+        var infoCaption = document.createElement('h3');
+        infoCaption.style.color = 'gray';
+        infoCaption.innerHTML =
+          '<div id="content">'+
+          'Map generated from <a href="http://data.denvergov.org">'+
+          'City of Denver Open Data Catalog<a> '+
+          'Data licensed under '+
+          '<a href="http://creativecommons.org/licenses/by/3.0/">'+
+          'CC BY 3.0<a> - Map generated by '+
+          '<a href="https://www.osullivan-law-firm.com/">'+
+          'The O\'Sullivan Law Firm<a></a> '+
+          '</div>';
+
+        var infoCaptionText = document.createElement('div');
+        infoCaptionText.appendChild(infoCaption);
+
+        // Push the title and caption to the page
+        map.controls[google.maps.ControlPosition.TOP_CENTER].push(infoText);
+        map.controls[google.maps.ControlPosition.BOTTOM_CENTER].push(infoCaption);
+        // Map title and caption end
+
+        // Legend Box Begin
+        var legend = document.getElementById('legend');
+        var div = document.createElement('div');
+        legend.appendChild(div);
+        div.innerHTML =
+          '<p><img src="images/dot-0.png" style="width:14px;height:14px;"> Traffic Accident</p>'+
+          '<p><img src="images/dot-1.png" style="width:14px;height:14px;"> DUI / DUID</p>'+
+          '<p><img src="images/dot-2.png" style="width:14px;height:14px;"> Fatality</p>'+
+          '<p><img src="images/dot-3.png" style="width:14px;height:14px;"> Hit and Run</p>'+
+          '<p><img src="images/dot-4.png" style="width:14px;height:14px;"> Police</p>'+
+          '<p><img src="images/dot-5.png" style="width:14px;height:14px;"> Serious Bodily Injury</p>';
+
+        map.controls[google.maps.ControlPosition.RIGHT_BOTTOM].push(legend);
+        // Legend Box End
+
+     }
+
+
+
+     function osullivan() {
+
+      var osullivanInfo =
+	'<div id="content">'+
+	'<font color="black">'+
+	'</div>'+
+	'<h1 id="firstHeading" class="firstHeading">The O\'Sullivan Law Firm</h1>'+
+	'<div id="bodyContent">'+
+	'<p>Address: 600 N Ogden St, Denver, CO 80218</p>'+
+	'<p>Phone: (303)388-5304</p>'+
+	'<p>Website: <a href="https://www.osullivan-law-firm.com/">'+
+	'www.osullivan-law-firm.com</a> '+
+	'</p>'+
+	'</div>';
+
+      var infowindow1 = new google.maps.InfoWindow({
+	content: osullivanInfo,
+      });
+
+      var osullivan = new google.maps.Marker({
+	position: {lat:39.725731, lng:-104.974952},
+	map: map,
+	icon: 'images/osullivan.png'
+      });
+
+      osullivan.addListener('click', function() {
+        infowindow1.open(map, osullivan);
+      });
+
+     }
+
+     function accidentMap() {
+
+      var accidentLayer = new google.maps.Data();
+        accidentLayer.loadGeoJson(
+	  'https://andrewrussette.github.io/nineThirtyOne/html/json/April.json', null, function (features) {
+
+          var accidents = features.map(function (feature) {
+
+	    var location = feature.getGeometry();
+
+	    var name = feature.getProperty();
+
+	    var accident = new google.maps.Marker({
+              position: location.get(0),
+              icon:feature.getProperty('icon')
+            });
+
+            var pName = feature.getProperty("name");
+	    var pDate = feature.getProperty("date");
+            var pTime = feature.getProperty("time");
+	    var pPed = feature.getProperty("ped");
+	    var pBike = feature.getProperty("bike");
+
+            var refInfo = (
+              "<div style='color: DimGray;'><b>"+pName+"</b><br>"+pDate+"<br>"+pTime+"<br>"+pPed+"<br>"+pBike+"</div>"
+            );
+
+            var infowindow = new google.maps.InfoWindow({
+	      content: refInfo
+	    });
+
+            accident.addListener('click', function() {
+              infowindow.open(map, accident);
+            });
+
+            return accident;
+          });
+
+          var markerCluster = new MarkerClusterer(map, accidents, {
+	    imagePath: 'images/d'
+          });
+
+        });
+
+     }
+
+    </script>
+    <script src="markerclusterer.js"></script>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCC2ZcP0KnGMAtrqXlwvqSZXWz-OhbaQEo&callback=initMap">
+    </script>
+  </body>
+</html>
