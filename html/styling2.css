@@ -77,11 +77,11 @@ a:visited {
     }
 
 .quickWindow {
-    height: 270px;
+    height: 100%;
     width: 0px;
     position: fixed;
     z-index: 3;
-    background-Color: white;
+    background-Color: rgba(255,255,255,0.85);
     background-position: 10% 88%;
     overflow-x: hidden;
     overflow-y:hidden;
@@ -116,11 +116,11 @@ a:visited {
     }
 
 .chartNav {
-    height: 670px;
+    height: 100%;
     width: 0;
     position: fixed;
     z-index: 3;
-    background-Color:#fff;
+    background-Color: white;
     background-position: 10% 88%;
     overflow-x: hidden;
     overflow-y:hidden;
@@ -156,7 +156,7 @@ a:visited {
     top: 0px;
     position: fixed;
     z-index: 3;
-    background-Color: 'none';
+    background-Color: rgba(105,105,105,0.75);
     background-position: 10% 88%;
     overflow-x: hidden;
     overflow-y:hidden;
@@ -188,8 +188,8 @@ a:visited {
 
 .chartTab .closeBut {
     position: absolute;
-    top: 120px;
-    right: 0px;
+    top: 0px;
+    right: 25px;
     font-size: 40px;
     margin-left: 0px;
     }
@@ -369,7 +369,7 @@ a:visited {
     padding-top: 1px;
     padding-left: 3px;
     width: 120px;
-    height: 150px;
+    height: 170px;
     top: 59%;
     font-size:11px;
     color: #fff;
