@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+   "features": [
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2016-12-10",
+	"time": "Time: 20:46:00",
+	"name": "Accident Type: Traffic Accident - Fatality",
+        "icon": "images/dot-2.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-105.033596,
+	39.725212
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2016-12-10",
+	"time": "Time: 17:29:00",
+	"name": "Accident Type: Traffic Accident - Fatality",
+        "icon": "images/dot-2.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-105.008655,
+	39.711200
+        ]
+       }
+     }
+  ]
+}

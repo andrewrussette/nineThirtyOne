@@ -1,0 +1,923 @@
+{
+  "type": "FeatureCollection",
+   "features": [
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-01",
+	"time": "Time: 20:22:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.790594,
+	39.772831
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-02",
+	"time": "Time: 01:39:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.924603,
+	39.720999
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-02",
+	"time": "Time: 03:28:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.959317,
+	39.780129
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-20",
+	"time": "Time: 05:05:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-105.024661,
+	39.710747
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-20",
+	"time": "Time: 19:49:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.971305,
+	39.739954
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-20",
+	"time": "Time: 21:19:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-105.012497,
+	39.755294
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-20",
+	"time": "Time: 22:46:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.945826,
+	39.678307
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-21",
+	"time": "Time: 15:30:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.981358,
+	39.720132
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-22",
+	"time": "Time: 19:38:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.940274,
+	39.724489
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-23",
+	"time": "Time: 01:12:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-105.013358,
+	39.725520
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-23",
+	"time": "Time: 03:06:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-105.003226,
+	39.748502
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-25",
+	"time": "Time: 16:43:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.962454,
+	39.683364
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-25",
+	"time": "Time: 23:13:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.902323,
+	39.660158
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-27",
+	"time": "Time: 17:00:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-105.042567,
+	39.696773
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-07",
+	"time": "Time: 22:45:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.994970,
+	39.768016
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-08",
+	"time": "Time: 09:17:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.940571,
+	39.765670
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-30",
+	"time": "Time: 21:57:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-105.030884,
+	39.672547
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-08",
+	"time": "Time: 23:55:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.847037,
+	39.774006
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-09",
+	"time": "Time: 15:51:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.979897,
+	39.741670
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-10",
+	"time": "Time: 18:03:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.982793,
+	39.703946
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-13",
+	"time": "Time: 20:44:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.898771,
+	39.729858
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-15",
+	"time": "Time: 05:37:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.940256,
+	39.750869
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-15",
+	"time": "Time: 17:15:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.953393,
+	39.780121
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-16",
+	"time": "Time: 00:55:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.959448,
+	39.684726
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-20",
+	"time": "Time: 04:57:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.94941,
+	39.678469
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-21",
+	"time": "Time: 11:10:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.847037,
+	39.774006
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-26",
+	"time": "Time: 22:39:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-105.041574,
+	39.780212
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-28",
+	"time": "Time: 17:00:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.881143,
+	39.724657
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-30",
+	"time": "Time: 16:08:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-105.015857,
+	39.776562
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-08",
+	"time": "Time: 02:49:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-105.006428,
+	39.783265
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-15",
+	"time": "Time: 04:44:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-105.019165,
+	39.751199
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-14",
+	"time": "Time: 23:49:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.901408,
+	39.623783
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-15",
+	"time": "Time: 07:35:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.940595,
+	39.758294
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-27",
+	"time": "Time: 18:56:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.991307,
+	39.744314
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-29",
+	"time": "Time: 02:50:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-105.014148,
+	39.740329
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-29",
+	"time": "Time: 15:30:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.994817,
+	39.768043
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-19",
+	"time": "Time: 01:57:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.978701,
+	39.735150
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-08",
+	"time": "Time: 02:16:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.989194,
+	39.780043
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-20",
+	"time": "Time: 04:02:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.989194,
+	39.780043
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-08",
+	"time": "Time: 11:40:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.981983,
+	39.741902
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-06",
+	"time": "Time: 23:23:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.957937,
+	39.721207
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-22",
+	"time": "Time: 11:41:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-105.034233,
+	39.710720
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-17",
+	"time": "Time: 19:07:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-105.025095,
+	39.711172
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-12",
+	"time": "Time: 00:14:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-105.006428,
+	39.783265
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-30",
+	"time": "Time: 18:47:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.912354,
+	39.699983
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-14",
+	"time": "Time: 19:02:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.798609,
+	39.773305
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-08",
+	"time": "Time: 04:17:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-105.014458,
+	39.741790
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-22",
+	"time": "Time: 21:58:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.908134,
+	39.701066
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-08",
+	"time": "Time: 02:52:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.903173,
+	39.789175
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-01",
+	"time": "Time: 18:34:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-105.037175,
+	39.685579
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-01-18",
+	"time": "Time: 21:42:00",
+	"name": "Accident Type: Traffic Accident - DUI / DUID",
+        "icon": "images/dot-1.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-105.032136,
+	39.779955
+        ]
+       }
+     }
+  ]
+}

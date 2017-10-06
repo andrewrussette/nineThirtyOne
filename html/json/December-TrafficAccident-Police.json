@@ -1,0 +1,311 @@
+{
+  "type": "FeatureCollection",
+   "features": [
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2016-12-15",
+	"time": "Time: 18:41:00",
+	"name": "Accident Type: Traffic Accident - Police",
+        "icon": "images/dot-4.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.930515,
+	39.710030
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2016-12-01",
+	"time": "Time: 00:24:00",
+	"name": "Accident Type: Traffic Accident - Police",
+        "icon": "images/dot-4.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-105.025220,
+	39.740475
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2016-12-20",
+	"time": "Time: 19:23:00",
+	"name": "Accident Type: Traffic Accident - Police",
+        "icon": "images/dot-4.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-105.003935,
+	39.712130
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2016-12-06",
+	"time": "Time: 06:54:00",
+	"name": "Accident Type: Traffic Accident - Police",
+        "icon": "images/dot-4.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.902131,
+	39.698095
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2016-12-26",
+	"time": "Time: 18:36:00",
+	"name": "Accident Type: Traffic Accident - Police",
+        "icon": "images/dot-4.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.897946,
+	39.769687
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2016-12-10",
+	"time": "Time: 16:40:00",
+	"name": "Accident Type: Traffic Accident - Police",
+        "icon": "images/dot-4.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.996860,
+	39.738611
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2016-12-14",
+	"time": "Time: 15:35:00",
+	"name": "Accident Type: Traffic Accident - Police",
+        "icon": "images/dot-4.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.978746,
+	39.777858
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2016-12-15",
+	"time": "Time: 00:58:00",
+	"name": "Accident Type: Traffic Accident - Police",
+        "icon": "images/dot-4.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.872620,
+	39.698136
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2016-12-03",
+	"time": "Time: 00:33:00",
+	"name": "Accident Type: Traffic Accident - Police",
+        "icon": "images/dot-4.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.973414,
+	39.692970
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2016-12-04",
+	"time": "Time: 22:39:00",
+	"name": "Accident Type: Traffic Accident - Police",
+        "icon": "images/dot-4.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-105.025164,
+	39.732989
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 1",
+	"date": "Date: 2016-12-15",
+	"time": "Time: 00:01:00",
+	"name": "Accident Type: Traffic Accident - Police",
+        "icon": "images/dot-4.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-105.025061,
+	39.696745
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2016-12-16",
+	"time": "Time: 09:22:00",
+	"name": "Accident Type: Traffic Accident - Police",
+        "icon": "images/dot-4.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.934218,
+	39.678378
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2016-12-07",
+	"time": "Time: 09:34:00",
+	"name": "Accident Type: Traffic Accident - Police",
+        "icon": "images/dot-4.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.940198,
+	39.760342
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2016-12-16",
+	"time": "Time: 19:24:00",
+	"name": "Accident Type: Traffic Accident - Police",
+        "icon": "images/dot-4.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.949705,
+	39.780793
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2016-12-20",
+	"time": "Time: 08:45:00",
+	"name": "Accident Type: Traffic Accident - Police",
+        "icon": "images/dot-4.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.985038,
+	39.714751
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2016-12-20",
+	"time": "Time: 11:54:00",
+	"name": "Accident Type: Traffic Accident - Police",
+        "icon": "images/dot-4.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-105.043358,
+	39.778313
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2016-12-20",
+	"time": "Time: 18:18:00",
+	"name": "Accident Type: Traffic Accident - Police",
+        "icon": "images/dot-4.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.993948,
+	39.746530
+        ]
+       }
+     }
+  ]
+}

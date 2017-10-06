@@ -1,0 +1,347 @@
+{
+  "type": "FeatureCollection",
+   "features": [
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-02-09",
+	"time": "Time: 16:09:00",
+	"name": "Accident Type: Traffic Accident - Serious Bodily Injury",
+        "icon": "images/dot-5.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-105.025137,
+	39.725426
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 1",
+	"date": "Date: 2017-02-10",
+	"time": "Time: 17:00:00",
+	"name": "Accident Type: Traffic Accident - Serious Bodily Injury",
+        "icon": "images/dot-5.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-105.047534,
+	39.684716
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-02-17",
+	"time": "Time: 17:16:00",
+	"name": "Accident Type: Traffic Accident - Serious Bodily Injury",
+        "icon": "images/dot-5.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.999133,
+	39.711204
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-02-17",
+	"time": "Time: 18:42:00",
+	"name": "Accident Type: Traffic Accident - Serious Bodily Injury",
+        "icon": "images/dot-5.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-105.015860,
+	39.763226
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 1",
+	"date": "Date: 2017-02-21",
+	"time": "Time: 13:38:00",
+	"name": "Accident Type: Traffic Accident - Serious Bodily Injury",
+        "icon": "images/dot-5.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.998509,
+	39.732304
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 1",
+	"date": "Date: 2017-02-23",
+	"time": "Time: 08:16:00",
+	"name": "Accident Type: Traffic Accident - Serious Bodily Injury",
+        "icon": "images/dot-5.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.940665,
+	39.740128
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-02-25",
+	"time": "Time: 04:21:00",
+	"name": "Accident Type: Traffic Accident - Serious Bodily Injury",
+        "icon": "images/dot-5.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.978727,
+	39.738420
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-02-25",
+	"time": "Time: 19:22:00",
+	"name": "Accident Type: Traffic Accident - Serious Bodily Injury",
+        "icon": "images/dot-5.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.966513,
+	39.785477
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 1",
+	"date": "Date: 2017-02-03",
+	"time": "Time: 19:22:00",
+	"name": "Accident Type: Traffic Accident - Serious Bodily Injury",
+        "icon": "images/dot-5.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.937072,
+	39.694712
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-02-05",
+	"time": "Time: 11:15:00",
+	"name": "Accident Type: Traffic Accident - Serious Bodily Injury",
+        "icon": "images/dot-5.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.960995,
+	39.750713
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-02-08",
+	"time": "Time: 02:01:00",
+	"name": "Accident Type: Traffic Accident - Serious Bodily Injury",
+        "icon": "images/dot-5.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.953586,
+	39.779946
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 1",
+	"date": "Date: 2017-02-13",
+	"time": "Time: 17:51:00",
+	"name": "Accident Type: Traffic Accident - Serious Bodily Injury",
+        "icon": "images/dot-5.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.912704,
+	39.668850
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-02-23",
+	"time": "Time: 15:54:00",
+	"name": "Accident Type: Traffic Accident - Serious Bodily Injury",
+        "icon": "images/dot-5.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.949797,
+	39.725608
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-02-01",
+	"time": "Time: 20:30:00",
+	"name": "Accident Type: Traffic Accident - Serious Bodily Injury",
+        "icon": "images/dot-5.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-105.017813,
+	39.757002
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-02-26",
+	"time": "Time: 22:15:00",
+	"name": "Accident Type: Traffic Accident - Serious Bodily Injury",
+        "icon": "images/dot-5.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.989194,
+	39.780043
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-02-02",
+	"time": "Time: 15:23:00",
+	"name": "Accident Type: Traffic Accident - Serious Bodily Injury",
+        "icon": "images/dot-5.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.962856,
+	39.711113
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 1",
+	"date": "Date: 2017-02-14",
+	"time": "Time: 10:08:00",
+	"name": "Accident Type: Traffic Accident - Serious Bodily Injury",
+        "icon": "images/dot-5.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-105.043727,
+	39.689420
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-02-01",
+	"time": "Time: 22:06:00",
+	"name": "Accident Type: Traffic Accident - Serious Bodily Injury",
+        "icon": "images/dot-5.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.940575,
+	39.740757
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 0",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-02-02",
+	"time": "Time: 02:39:00",
+	"name": "Accident Type: Traffic Accident - Serious Bodily Injury",
+        "icon": "images/dot-5.png"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-105.004333,
+	39.760948
+        ]
+       }
+     }
+  ]
+}
