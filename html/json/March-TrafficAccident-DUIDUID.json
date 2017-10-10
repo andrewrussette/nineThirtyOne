@@ -8,8 +8,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-07",
 	"time": "Time: 14:31:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -26,8 +26,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-10",
 	"time": "Time: 01:28:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -44,8 +44,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-10",
 	"time": "Time: 09:44:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -62,8 +62,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-11",
 	"time": "Time: 02:22:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -80,8 +80,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-12",
 	"time": "Time: 03:24:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -98,8 +98,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-18",
 	"time": "Time: 02:27:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -116,8 +116,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-18",
 	"time": "Time: 02:32:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -134,8 +134,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-02",
 	"time": "Time: 01:42:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -152,8 +152,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-02",
 	"time": "Time: 23:08:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -170,8 +170,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-03",
 	"time": "Time: 20:05:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -188,8 +188,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-04",
 	"time": "Time: 08:38:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -206,8 +206,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-04",
 	"time": "Time: 19:27:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -224,8 +224,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-21",
 	"time": "Time: 20:23:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -242,8 +242,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-24",
 	"time": "Time: 01:06:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -260,8 +260,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-24",
 	"time": "Time: 02:52:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -278,8 +278,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-25",
 	"time": "Time: 00:32:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -296,8 +296,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-25",
 	"time": "Time: 04:17:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -314,8 +314,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-26",
 	"time": "Time: 15:41:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -332,8 +332,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-26",
 	"time": "Time: 16:56:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -350,8 +350,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-28",
 	"time": "Time: 03:06:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -368,8 +368,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-29",
 	"time": "Time: 23:49:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -386,8 +386,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-30",
 	"time": "Time: 02:46:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -404,8 +404,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-05",
 	"time": "Time: 02:18:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -422,8 +422,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-24",
 	"time": "Time: 02:49:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -440,8 +440,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-05",
 	"time": "Time: 02:33:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -458,8 +458,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-05",
 	"time": "Time: 22:00:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -476,8 +476,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-15",
 	"time": "Time: 21:46:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -494,8 +494,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-23",
 	"time": "Time: 14:38:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -512,8 +512,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-08",
 	"time": "Time: 20:48:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -530,8 +530,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-24",
 	"time": "Time: 02:40:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -548,8 +548,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-17",
 	"time": "Time: 00:25:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -566,8 +566,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-11",
 	"time": "Time: 01:52:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -584,8 +584,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-12",
 	"time": "Time: 00:04:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -602,8 +602,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-12",
 	"time": "Time: 03:00:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -620,8 +620,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-04",
 	"time": "Time: 00:10:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -638,8 +638,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-25",
 	"time": "Time: 22:35:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -656,8 +656,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-26",
 	"time": "Time: 22:11:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -674,8 +674,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-17",
 	"time": "Time: 01:37:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -692,8 +692,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-25",
 	"time": "Time: 01:49:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -710,8 +710,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-25",
 	"time": "Time: 22:03:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -728,8 +728,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-26",
 	"time": "Time: 01:40:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -746,8 +746,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-27",
 	"time": "Time: 20:51:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -764,8 +764,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-22",
 	"time": "Time: 02:45:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -782,8 +782,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-26",
 	"time": "Time: 01:43:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -800,8 +800,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-30",
 	"time": "Time: 00:37:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -818,8 +818,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-10",
 	"time": "Time: 01:03:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -836,8 +836,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-12",
 	"time": "Time: 04:18:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -854,8 +854,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-30",
 	"time": "Time: 23:52:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -872,8 +872,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-17",
 	"time": "Time: 20:41:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",
@@ -890,8 +890,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-30",
 	"time": "Time: 01:07:00",
-	"name": "Accident Type: Traffic Accident - DUI / DUID",
-        "icon": "images/dot-1.png"
+        "icon": "images/dot-1.png",
+	"name": "Accident Type: Traffic Accident - DUI / DUID"
 	},
     "geometry": {
     "type": "Point",

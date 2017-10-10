@@ -5,29 +5,11 @@
     "type": "Feature",
     "properties": {
 	"bike": "Bicycle Involved: 0",
-	"ped": "Pedestrian Involved: 1",
-	"date": "Date: 2016-11-05",
-	"time": "Time: 16:33:00",
-	"name": "Accident Type: Traffic Accident - Fatality",
-        "icon": "images/dot-2.png"
-	},
-    "geometry": {
-    "type": "Point",
-    "coordinates": [
-	-104.940404,
-	39.688628
-        ]
-       }
-     },
-    {
-    "type": "Feature",
-    "properties": {
-	"bike": "Bicycle Involved: 0",
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2016-11-30",
 	"time": "Time: 13:01:00",
-	"name": "Accident Type: Traffic Accident - Fatality",
-        "icon": "images/dot-2.png"
+        "icon": "images/dot-2.png",
+	"name": "Accident Type: Traffic Accident - Fatality"
 	},
     "geometry": {
     "type": "Point",
@@ -44,50 +26,14 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2016-11-11",
 	"time": "Time: 01:48:00",
-	"name": "Accident Type: Traffic Accident - Fatality",
-        "icon": "images/dot-2.png"
+        "icon": "images/dot-2.png",
+	"name": "Accident Type: Traffic Accident - Fatality"
 	},
     "geometry": {
     "type": "Point",
     "coordinates": [
 	-104.898155,
 	39.747372
-        ]
-       }
-     },
-    {
-    "type": "Feature",
-    "properties": {
-	"bike": "Bicycle Involved: 0",
-	"ped": "Pedestrian Involved: 1",
-	"date": "Date: 2016-11-14",
-	"time": "Time: 19:30:00",
-	"name": "Accident Type: Traffic Accident - Fatality",
-        "icon": "images/dot-2.png"
-	},
-    "geometry": {
-    "type": "Point",
-    "coordinates": [
-	-104.983596,
-	39.73383
-        ]
-       }
-     },
-    {
-    "type": "Feature",
-    "properties": {
-	"bike": "Bicycle Involved: 0",
-	"ped": "Pedestrian Involved: 1",
-	"date": "Date: 2016-11-03",
-	"time": "Time: 07:36:00",
-	"name": "Accident Type: Traffic Accident - Fatality",
-        "icon": "images/dot-2.png"
-	},
-    "geometry": {
-    "type": "Point",
-    "coordinates": [
-	-104.879007,
-	39.708111
         ]
        }
      }

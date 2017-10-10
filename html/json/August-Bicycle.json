@@ -1,0 +1,797 @@
+{
+  "type": "FeatureCollection",
+   "features": [
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 1",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-08-04",
+	"time": "Time: 10:30:00",
+        "icon": "images/bicycle.png",
+	"name": "Accident Type: Traffic Accident"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-105.015836,
+	39.758402
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 1",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-08-06",
+	"time": "Time: 07:27:00",
+        "icon": "images/bicycle.png",
+	"name": "Accident Type: Traffic Accident"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.988532,
+	39.740563
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 1",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-08-02",
+	"time": "Time: 00:29:00",
+        "icon": "images/bicycle.png",
+	"name": "Accident Type: Traffic Accident"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.972127,
+	39.758233
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 1",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-08-02",
+	"time": "Time: 14:48:00",
+        "icon": "images/bicycle.png",
+	"name": "Accident Type: Traffic Accident"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.973392,
+	39.700201
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 1",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-08-03",
+	"time": "Time: 14:48:00",
+        "icon": "images/bicycle.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-105.050228,
+	39.709579
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 1",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-08-04",
+	"time": "Time: 15:21:00",
+        "icon": "images/bicycle.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.961026,
+	39.735049
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 1",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-08-05",
+	"time": "Time: 19:25:00",
+        "icon": "images/bicycle.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-105.034381,
+	39.684640
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 1",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-08-08",
+	"time": "Time: 07:59:00",
+        "icon": "images/bicycle.png",
+	"name": "Accident Type: Traffic Accident"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.946539,
+	39.740151
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 1",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-08-04",
+	"time": "Time: 14:37:00",
+        "icon": "images/bicycle.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.993420,
+	39.753652
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 1",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-08-02",
+	"time": "Time: 15:04:00",
+        "icon": "images/bicycle.png",
+	"name": "Accident Type: Traffic Accident"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.903568,
+	39.778300
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 1",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-08-02",
+	"time": "Time: 16:45:00",
+        "icon": "images/bicycle.png",
+	"name": "Accident Type: Traffic Accident"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.959768,
+	39.750716
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 1",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-08-30",
+	"time": "Time: 18:27:00",
+        "icon": "images/bicycle.png",
+	"name": "Accident Type: Traffic Accident"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.902174,
+	39.746528
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 1",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-08-14",
+	"time": "Time: 20:15:00",
+        "icon": "images/bicycle.png",
+	"name": "Accident Type: Traffic Accident"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.873639,
+	39.669587
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 1",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-08-15",
+	"time": "Time: 15:28:00",
+        "icon": "images/bicycle.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-105.091299,
+	39.614406
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 1",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-08-20",
+	"time": "Time: 23:17:00",
+        "icon": "images/bicycle.png",
+	"name": "Accident Type: Traffic Accident"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-105.021213,
+	39.705523
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 1",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-08-22",
+	"time": "Time: 13:29:00",
+        "icon": "images/bicycle.png",
+	"name": "Accident Type: Traffic Accident"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.902649,
+	39.764611
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 1",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-08-31",
+	"time": "Time: 07:30:00",
+        "icon": "images/bicycle.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.997142,
+	39.711193
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 1",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-08-28",
+	"time": "Time: 07:33:00",
+        "icon": "images/bicycle.png",
+	"name": "Accident Type: Traffic Accident"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.995335,
+	39.749457
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 1",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-08-23",
+	"time": "Time: 09:46:00",
+        "icon": "images/bicycle.png",
+	"name": "Accident Type: Traffic Accident"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.998121,
+	39.767678
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 1",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-08-23",
+	"time": "Time: 15:28:00",
+        "icon": "images/bicycle.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.973271,
+	39.718704
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 1",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-08-25",
+	"time": "Time: 19:01:00",
+        "icon": "images/bicycle.png",
+	"name": "Accident Type: Traffic Accident"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.987378,
+	39.743356
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 1",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-08-26",
+	"time": "Time: 18:40:00",
+        "icon": "images/bicycle.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.999899,
+	39.756719
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 1",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-08-10",
+	"time": "Time: 13:56:00",
+        "icon": "images/bicycle.png",
+	"name": "Accident Type: Traffic Accident"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.986117,
+	39.741678
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 1",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-08-22",
+	"time": "Time: 22:32:00",
+        "icon": "images/bicycle.png",
+	"name": "Accident Type: Traffic Accident"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.968483,
+	39.736823
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 1",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-08-17",
+	"time": "Time: 20:46:00",
+        "icon": "images/bicycle.png",
+	"name": "Accident Type: Traffic Accident"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.921892,
+	39.696624
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 1",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-08-14",
+	"time": "Time: 20:50:00",
+        "icon": "images/bicycle.png",
+	"name": "Accident Type: Traffic Accident"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-105.002489,
+	39.747654
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 1",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-08-15",
+	"time": "Time: 08:36:00",
+        "icon": "images/bicycle.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.979860,
+	39.733689
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 1",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-08-18",
+	"time": "Time: 07:57:00",
+        "icon": "images/bicycle.png",
+	"name": "Accident Type: Traffic Accident"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-105.048605,
+	39.772953
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 1",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-08-28",
+	"time": "Time: 07:35:00",
+        "icon": "images/bicycle.png",
+	"name": "Accident Type: Traffic Accident"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.994951,
+	39.765682
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 1",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-08-10",
+	"time": "Time: 17:41:00",
+        "icon": "images/bicycle.png",
+	"name": "Accident Type: Traffic Accident"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.961010,
+	39.743213
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 1",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-08-15",
+	"time": "Time: 08:57:00",
+        "icon": "images/bicycle.png",
+	"name": "Accident Type: Traffic Accident"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.93615,
+	39.733848
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 1",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-08-17",
+	"time": "Time: 13:18:00",
+        "icon": "images/bicycle.png",
+	"name": "Accident Type: Traffic Accident"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.929806,
+	39.738223
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 1",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-08-29",
+	"time": "Time: 17:36:00",
+        "icon": "images/bicycle.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.951005,
+	39.722544
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 1",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-08-29",
+	"time": "Time: 12:18:00",
+        "icon": "images/bicycle.png",
+	"name": "Accident Type: Traffic Accident"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.931686,
+	39.685709
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 1",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-08-19",
+	"time": "Time: 22:06:00",
+        "icon": "images/bicycle.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.898963,
+	39.757688
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 1",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-08-20",
+	"time": "Time: 01:35:00",
+        "icon": "images/bicycle.png",
+	"name": "Accident Type: Traffic Accident - Serious Bodily Injury"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.965992,
+	39.740005
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 1",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-08-15",
+	"time": "Time: 21:12:00",
+        "icon": "images/bicycle.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.904642,
+	39.741473
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 1",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-08-16",
+	"time": "Time: 10:00:00",
+        "icon": "images/bicycle.png",
+	"name": "Accident Type: Traffic Accident"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.957534,
+	39.696513
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 1",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-08-02",
+	"time": "Time: 15:04:00",
+        "icon": "images/bicycle.png",
+	"name": "Accident Type: Traffic Accident - Serious Bodily Injury"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.903568,
+	39.778300
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 1",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-08-10",
+	"time": "Time: 17:09:00",
+        "icon": "images/bicycle.png",
+	"name": "Accident Type: Traffic Accident"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.995721,
+	39.736855
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 1",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-08-18",
+	"time": "Time: 10:30:00",
+        "icon": "images/bicycle.png",
+	"name": "Accident Type: Traffic Accident"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.986244,
+	39.756407
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 1",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-08-29",
+	"time": "Time: 18:23:00",
+        "icon": "images/bicycle.png",
+	"name": "Accident Type: Traffic Accident"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.923320,
+	39.738230
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 1",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-08-14",
+	"time": "Time: 07:48:00",
+        "icon": "images/bicycle.png",
+	"name": "Accident Type: Traffic Accident"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-105.001579,
+	39.732098
+        ]
+       }
+     },
+    {
+    "type": "Feature",
+    "properties": {
+	"bike": "Bicycle Involved: 1",
+	"ped": "Pedestrian Involved: 0",
+	"date": "Date: 2017-08-14",
+	"time": "Time: 07:57:00",
+        "icon": "images/bicycle.png",
+	"name": "Accident Type: Traffic Accident"
+	},
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+	-104.941688,
+	39.772873
+        ]
+       }
+     }
+  ]
+}

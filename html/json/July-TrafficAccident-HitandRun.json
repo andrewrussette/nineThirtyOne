@@ -8,8 +8,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-14",
 	"time": "Time: 18:30:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -26,8 +26,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-14",
 	"time": "Time: 18:48:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -44,8 +44,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-14",
 	"time": "Time: 18:50:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -62,8 +62,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-14",
 	"time": "Time: 18:53:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -80,8 +80,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-14",
 	"time": "Time: 18:56:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -98,8 +98,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-14",
 	"time": "Time: 19:22:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -116,8 +116,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-15",
 	"time": "Time: 14:46:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -134,8 +134,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-15",
 	"time": "Time: 02:11:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -152,8 +152,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-15",
 	"time": "Time: 14:17:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -170,8 +170,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-15",
 	"time": "Time: 16:12:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -188,8 +188,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-15",
 	"time": "Time: 16:05:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -206,8 +206,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-15",
 	"time": "Time: 18:39:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -224,8 +224,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-15",
 	"time": "Time: 23:28:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -242,8 +242,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-16",
 	"time": "Time: 00:42:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -260,8 +260,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-16",
 	"time": "Time: 03:30:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -278,8 +278,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-16",
 	"time": "Time: 03:59:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -296,8 +296,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-16",
 	"time": "Time: 04:30:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -314,8 +314,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-16",
 	"time": "Time: 09:33:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -332,8 +332,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-16",
 	"time": "Time: 13:25:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -350,8 +350,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-16",
 	"time": "Time: 16:55:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -368,8 +368,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-16",
 	"time": "Time: 20:59:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -386,8 +386,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-17",
 	"time": "Time: 00:36:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -404,8 +404,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-17",
 	"time": "Time: 06:13:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -422,8 +422,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-17",
 	"time": "Time: 09:49:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -440,8 +440,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-17",
 	"time": "Time: 09:30:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -458,8 +458,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-17",
 	"time": "Time: 10:29:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -476,8 +476,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-17",
 	"time": "Time: 10:45:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -494,8 +494,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-17",
 	"time": "Time: 11:59:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -512,8 +512,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-17",
 	"time": "Time: 12:27:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -530,8 +530,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-17",
 	"time": "Time: 12:24:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -548,8 +548,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-17",
 	"time": "Time: 13:28:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -566,8 +566,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-17",
 	"time": "Time: 14:36:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -584,8 +584,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-17",
 	"time": "Time: 15:14:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -602,8 +602,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-17",
 	"time": "Time: 17:06:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -620,8 +620,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-17",
 	"time": "Time: 16:28:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -638,8 +638,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-17",
 	"time": "Time: 16:45:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -656,8 +656,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-17",
 	"time": "Time: 16:30:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -674,8 +674,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-17",
 	"time": "Time: 18:09:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -692,8 +692,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-17",
 	"time": "Time: 17:42:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -710,8 +710,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-17",
 	"time": "Time: 17:37:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -728,8 +728,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-17",
 	"time": "Time: 21:41:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -746,8 +746,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-17",
 	"time": "Time: 18:02:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -764,8 +764,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-17",
 	"time": "Time: 22:32:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -782,8 +782,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-17",
 	"time": "Time: 20:14:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -800,8 +800,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-17",
 	"time": "Time: 20:22:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -818,8 +818,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-17",
 	"time": "Time: 23:26:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -836,8 +836,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-18",
 	"time": "Time: 14:18:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -854,8 +854,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-18",
 	"time": "Time: 17:04:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -872,8 +872,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-11",
 	"time": "Time: 20:58:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -890,8 +890,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-18",
 	"time": "Time: 19:59:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -908,8 +908,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-18",
 	"time": "Time: 19:37:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -926,8 +926,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-18",
 	"time": "Time: 21:18:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -944,8 +944,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-18",
 	"time": "Time: 21:34:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -962,8 +962,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-19",
 	"time": "Time: 00:19:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -976,30 +976,12 @@
     {
     "type": "Feature",
     "properties": {
-	"bike": "Bicycle Involved: 1",
-	"ped": "Pedestrian Involved: 0",
-	"date": "Date: 2017-07-19",
-	"time": "Time: 07:14:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
-	},
-    "geometry": {
-    "type": "Point",
-    "coordinates": [
-	-104.940784,
-	39.704254
-        ]
-       }
-     },
-    {
-    "type": "Feature",
-    "properties": {
 	"bike": "Bicycle Involved: 0",
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-19",
 	"time": "Time: 12:00:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1016,8 +998,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-19",
 	"time": "Time: 16:12:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1034,8 +1016,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-19",
 	"time": "Time: 14:48:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1052,8 +1034,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-19",
 	"time": "Time: 17:14:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1070,8 +1052,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-19",
 	"time": "Time: 18:37:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1088,8 +1070,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-19",
 	"time": "Time: 19:00:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1106,8 +1088,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-20",
 	"time": "Time: 06:46:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1124,8 +1106,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-08-04",
 	"time": "Time: 11:50:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1142,8 +1124,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-15",
 	"time": "Time: 17:15:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1160,8 +1142,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-20",
 	"time": "Time: 09:47:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1178,8 +1160,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-20",
 	"time": "Time: 11:14:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1196,8 +1178,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-20",
 	"time": "Time: 12:39:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1214,8 +1196,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-20",
 	"time": "Time: 13:15:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1232,8 +1214,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-20",
 	"time": "Time: 17:01:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1250,8 +1232,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-20",
 	"time": "Time: 18:37:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1268,8 +1250,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-20",
 	"time": "Time: 20:20:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1286,8 +1268,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-21",
 	"time": "Time: 02:22:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1304,8 +1286,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-21",
 	"time": "Time: 09:25:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1322,8 +1304,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-21",
 	"time": "Time: 09:36:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1340,8 +1322,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-21",
 	"time": "Time: 12:27:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1358,8 +1340,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-21",
 	"time": "Time: 12:25:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1376,8 +1358,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-21",
 	"time": "Time: 13:32:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1394,8 +1376,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-21",
 	"time": "Time: 14:02:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1412,8 +1394,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-21",
 	"time": "Time: 15:01:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1430,8 +1412,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-21",
 	"time": "Time: 16:59:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1448,8 +1430,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-21",
 	"time": "Time: 16:56:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1466,8 +1448,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-21",
 	"time": "Time: 20:57:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1484,8 +1466,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-21",
 	"time": "Time: 23:34:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1502,8 +1484,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-22",
 	"time": "Time: 03:06:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1520,8 +1502,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-22",
 	"time": "Time: 08:46:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1538,8 +1520,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-22",
 	"time": "Time: 14:06:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1556,8 +1538,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-22",
 	"time": "Time: 15:16:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1574,8 +1556,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-22",
 	"time": "Time: 19:34:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1592,8 +1574,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-22",
 	"time": "Time: 21:05:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1610,8 +1592,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-22",
 	"time": "Time: 22:54:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1628,8 +1610,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-22",
 	"time": "Time: 23:01:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1646,8 +1628,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-23",
 	"time": "Time: 00:21:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1664,8 +1646,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-23",
 	"time": "Time: 03:51:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1682,8 +1664,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-23",
 	"time": "Time: 12:37:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1700,8 +1682,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-23",
 	"time": "Time: 14:30:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1718,8 +1700,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-23",
 	"time": "Time: 16:54:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1736,8 +1718,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-23",
 	"time": "Time: 15:51:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1754,8 +1736,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-23",
 	"time": "Time: 17:10:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1768,30 +1750,12 @@
     {
     "type": "Feature",
     "properties": {
-	"bike": "Bicycle Involved: 1",
-	"ped": "Pedestrian Involved: 0",
-	"date": "Date: 2017-07-23",
-	"time": "Time: 17:15:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
-	},
-    "geometry": {
-    "type": "Point",
-    "coordinates": [
-	-104.986890,
-	39.710811
-        ]
-       }
-     },
-    {
-    "type": "Feature",
-    "properties": {
 	"bike": "Bicycle Involved: 0",
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-23",
 	"time": "Time: 18:51:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1808,8 +1772,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-23",
 	"time": "Time: 21:27:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1826,8 +1790,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-24",
 	"time": "Time: 06:55:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1844,8 +1808,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-01",
 	"time": "Time: 00:12:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1862,8 +1826,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-01",
 	"time": "Time: 05:32:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1880,8 +1844,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-01",
 	"time": "Time: 09:42:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1898,8 +1862,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-01",
 	"time": "Time: 14:56:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1916,8 +1880,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-01",
 	"time": "Time: 17:07:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1934,8 +1898,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-24",
 	"time": "Time: 10:34:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1952,8 +1916,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-24",
 	"time": "Time: 14:44:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1970,8 +1934,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-24",
 	"time": "Time: 15:54:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -1988,8 +1952,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-24",
 	"time": "Time: 18:06:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2006,8 +1970,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-24",
 	"time": "Time: 19:14:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2024,8 +1988,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-24",
 	"time": "Time: 21:15:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2042,8 +2006,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-25",
 	"time": "Time: 05:30:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2060,8 +2024,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-25",
 	"time": "Time: 10:50:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2078,8 +2042,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-25",
 	"time": "Time: 12:52:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2096,8 +2060,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-25",
 	"time": "Time: 11:57:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2114,8 +2078,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-25",
 	"time": "Time: 15:56:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2132,8 +2096,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-01",
 	"time": "Time: 18:39:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2150,8 +2114,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-01",
 	"time": "Time: 18:25:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2168,8 +2132,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-01",
 	"time": "Time: 20:03:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2186,8 +2150,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-01",
 	"time": "Time: 20:56:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2204,8 +2168,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-01",
 	"time": "Time: 22:14:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2222,8 +2186,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-02",
 	"time": "Time: 04:13:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2240,8 +2204,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-02",
 	"time": "Time: 05:15:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2258,8 +2222,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-02",
 	"time": "Time: 13:04:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2276,8 +2240,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-02",
 	"time": "Time: 19:08:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2294,8 +2258,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-02",
 	"time": "Time: 20:32:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2312,8 +2276,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-03",
 	"time": "Time: 09:26:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2330,8 +2294,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-03",
 	"time": "Time: 12:07:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2348,8 +2312,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-03",
 	"time": "Time: 16:44:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2366,8 +2330,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-03",
 	"time": "Time: 14:27:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2384,8 +2348,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-03",
 	"time": "Time: 17:11:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2402,8 +2366,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-25",
 	"time": "Time: 16:33:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2420,8 +2384,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-25",
 	"time": "Time: 18:35:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2438,8 +2402,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-26",
 	"time": "Time: 09:33:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2456,8 +2420,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-26",
 	"time": "Time: 13:43:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2474,8 +2438,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-26",
 	"time": "Time: 13:31:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2492,8 +2456,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-26",
 	"time": "Time: 17:49:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2510,8 +2474,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-27",
 	"time": "Time: 16:24:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2528,8 +2492,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-28",
 	"time": "Time: 10:04:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2546,8 +2510,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-28",
 	"time": "Time: 15:35:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2564,8 +2528,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-03",
 	"time": "Time: 18:57:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2582,8 +2546,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-03",
 	"time": "Time: 21:48:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2600,8 +2564,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-04",
 	"time": "Time: 01:41:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2618,8 +2582,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-04",
 	"time": "Time: 02:43:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2636,8 +2600,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-04",
 	"time": "Time: 10:33:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2654,8 +2618,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-04",
 	"time": "Time: 13:00:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2672,8 +2636,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-04",
 	"time": "Time: 12:56:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2690,8 +2654,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-04",
 	"time": "Time: 15:13:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2708,8 +2672,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-04",
 	"time": "Time: 18:17:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2726,8 +2690,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-04",
 	"time": "Time: 23:17:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2744,8 +2708,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-05",
 	"time": "Time: 05:05:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2762,8 +2726,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-05",
 	"time": "Time: 08:41:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2780,8 +2744,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-05",
 	"time": "Time: 09:58:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2798,8 +2762,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-05",
 	"time": "Time: 14:53:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2816,8 +2780,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-05",
 	"time": "Time: 15:42:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2834,8 +2798,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-05",
 	"time": "Time: 16:20:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2852,8 +2816,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-05",
 	"time": "Time: 18:02:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2870,8 +2834,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-29",
 	"time": "Time: 09:47:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2885,29 +2849,11 @@
     "type": "Feature",
     "properties": {
 	"bike": "Bicycle Involved: 0",
-	"ped": "Pedestrian Involved: 1",
-	"date": "Date: 2017-07-29",
-	"time": "Time: 00:31:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
-	},
-    "geometry": {
-    "type": "Point",
-    "coordinates": [
-	-104.986025,
-	39.746858
-        ]
-       }
-     },
-    {
-    "type": "Feature",
-    "properties": {
-	"bike": "Bicycle Involved: 0",
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-29",
 	"time": "Time: 18:33:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2924,8 +2870,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-29",
 	"time": "Time: 20:17:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2942,8 +2888,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-29",
 	"time": "Time: 22:40:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2960,8 +2906,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-30",
 	"time": "Time: 00:30:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2978,8 +2924,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-30",
 	"time": "Time: 01:27:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -2996,8 +2942,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-30",
 	"time": "Time: 02:06:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3014,8 +2960,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-30",
 	"time": "Time: 03:09:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3032,8 +2978,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-30",
 	"time": "Time: 02:26:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3050,8 +2996,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-30",
 	"time": "Time: 11:44:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3068,8 +3014,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-30",
 	"time": "Time: 13:40:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3086,8 +3032,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-30",
 	"time": "Time: 15:26:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3101,29 +3047,11 @@
     "type": "Feature",
     "properties": {
 	"bike": "Bicycle Involved: 0",
-	"ped": "Pedestrian Involved: 1",
-	"date": "Date: 2017-07-30",
-	"time": "Time: 22:41:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
-	},
-    "geometry": {
-    "type": "Point",
-    "coordinates": [
-	-104.899907,
-	39.743793
-        ]
-       }
-     },
-    {
-    "type": "Feature",
-    "properties": {
-	"bike": "Bicycle Involved: 0",
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-31",
 	"time": "Time: 09:55:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3140,8 +3068,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-31",
 	"time": "Time: 10:41:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3158,8 +3086,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-31",
 	"time": "Time: 12:00:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3176,8 +3104,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-05",
 	"time": "Time: 20:08:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3194,8 +3122,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-05",
 	"time": "Time: 16:47:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3212,8 +3140,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-05",
 	"time": "Time: 18:24:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3230,8 +3158,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-05",
 	"time": "Time: 17:20:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3248,8 +3176,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-05",
 	"time": "Time: 18:02:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3266,8 +3194,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-05",
 	"time": "Time: 19:20:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3284,8 +3212,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-06",
 	"time": "Time: 07:22:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3302,8 +3230,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-06",
 	"time": "Time: 09:05:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3320,8 +3248,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-06",
 	"time": "Time: 08:31:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3338,8 +3266,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-06",
 	"time": "Time: 11:25:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3356,8 +3284,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-06",
 	"time": "Time: 15:23:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3374,8 +3302,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-06",
 	"time": "Time: 14:45:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3392,8 +3320,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-06",
 	"time": "Time: 17:29:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3410,8 +3338,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-06",
 	"time": "Time: 18:03:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3428,8 +3356,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-06",
 	"time": "Time: 19:55:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3446,8 +3374,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-06",
 	"time": "Time: 19:35:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3464,8 +3392,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-06",
 	"time": "Time: 20:15:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3482,8 +3410,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-31",
 	"time": "Time: 13:39:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3500,8 +3428,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-31",
 	"time": "Time: 17:17:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3518,8 +3446,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-31",
 	"time": "Time: 16:30:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3536,8 +3464,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-31",
 	"time": "Time: 17:52:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3554,8 +3482,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-31",
 	"time": "Time: 19:01:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3572,8 +3500,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-08-02",
 	"time": "Time: 16:28:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3590,8 +3518,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-07",
 	"time": "Time: 02:39:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3608,8 +3536,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-07",
 	"time": "Time: 06:52:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3626,8 +3554,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-07",
 	"time": "Time: 08:28:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3644,8 +3572,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-07",
 	"time": "Time: 12:50:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3662,8 +3590,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-07",
 	"time": "Time: 12:07:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3680,8 +3608,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-07",
 	"time": "Time: 12:51:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3698,8 +3626,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-07",
 	"time": "Time: 14:44:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3713,29 +3641,11 @@
     "type": "Feature",
     "properties": {
 	"bike": "Bicycle Involved: 0",
-	"ped": "Pedestrian Involved: 1",
-	"date": "Date: 2017-07-07",
-	"time": "Time: 20:05:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
-	},
-    "geometry": {
-    "type": "Point",
-    "coordinates": [
-	-104.835605,
-	39.777862
-        ]
-       }
-     },
-    {
-    "type": "Feature",
-    "properties": {
-	"bike": "Bicycle Involved: 0",
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-07",
 	"time": "Time: 22:41:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3752,8 +3662,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-07",
 	"time": "Time: 22:08:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3770,8 +3680,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-08",
 	"time": "Time: 00:35:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3785,29 +3695,11 @@
     "type": "Feature",
     "properties": {
 	"bike": "Bicycle Involved: 0",
-	"ped": "Pedestrian Involved: 1",
-	"date": "Date: 2017-07-08",
-	"time": "Time: 03:35:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
-	},
-    "geometry": {
-    "type": "Point",
-    "coordinates": [
-	-105.058441,
-	39.654534
-        ]
-       }
-     },
-    {
-    "type": "Feature",
-    "properties": {
-	"bike": "Bicycle Involved: 0",
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-08",
 	"time": "Time: 02:53:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3824,8 +3716,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-08",
 	"time": "Time: 11:33:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3842,8 +3734,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-08",
 	"time": "Time: 12:28:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3860,8 +3752,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-08",
 	"time": "Time: 18:49:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3878,8 +3770,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-08",
 	"time": "Time: 21:54:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3896,8 +3788,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-08",
 	"time": "Time: 23:51:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3914,8 +3806,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-09",
 	"time": "Time: 00:12:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3932,8 +3824,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-09",
 	"time": "Time: 00:00:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3950,8 +3842,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-09",
 	"time": "Time: 01:17:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3968,8 +3860,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-09",
 	"time": "Time: 02:13:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -3986,8 +3878,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-09",
 	"time": "Time: 06:25:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4000,30 +3892,12 @@
     {
     "type": "Feature",
     "properties": {
-	"bike": "Bicycle Involved: 1",
-	"ped": "Pedestrian Involved: 0",
-	"date": "Date: 2017-07-09",
-	"time": "Time: 10:23:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
-	},
-    "geometry": {
-    "type": "Point",
-    "coordinates": [
-	-104.980472,
-	39.752931
-        ]
-       }
-     },
-    {
-    "type": "Feature",
-    "properties": {
 	"bike": "Bicycle Involved: 0",
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-09",
 	"time": "Time: 09:51:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4040,8 +3914,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-09",
 	"time": "Time: 12:28:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4058,8 +3932,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-10",
 	"time": "Time: 10:01:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4076,8 +3950,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-10",
 	"time": "Time: 10:42:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4094,8 +3968,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-10",
 	"time": "Time: 14:00:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4112,8 +3986,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-10",
 	"time": "Time: 15:53:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4130,8 +4004,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-10",
 	"time": "Time: 15:41:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4148,8 +4022,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-10",
 	"time": "Time: 18:02:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4166,8 +4040,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-10",
 	"time": "Time: 21:46:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4184,8 +4058,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-10",
 	"time": "Time: 23:52:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4202,8 +4076,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-11",
 	"time": "Time: 07:29:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4220,8 +4094,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-11",
 	"time": "Time: 07:43:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4238,8 +4112,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-11",
 	"time": "Time: 12:46:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4256,8 +4130,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-12",
 	"time": "Time: 11:39:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4274,8 +4148,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-11",
 	"time": "Time: 15:56:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4292,8 +4166,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-11",
 	"time": "Time: 18:26:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4310,8 +4184,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-11",
 	"time": "Time: 23:18:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4328,8 +4202,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-11",
 	"time": "Time: 20:48:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4343,29 +4217,11 @@
     "type": "Feature",
     "properties": {
 	"bike": "Bicycle Involved: 0",
-	"ped": "Pedestrian Involved: 1",
-	"date": "Date: 2017-07-11",
-	"time": "Time: 20:43:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
-	},
-    "geometry": {
-    "type": "Point",
-    "coordinates": [
-	-104.987420,
-	39.744885
-        ]
-       }
-     },
-    {
-    "type": "Feature",
-    "properties": {
-	"bike": "Bicycle Involved: 0",
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-11",
 	"time": "Time: 21:50:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4382,8 +4238,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-12",
 	"time": "Time: 00:17:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4400,8 +4256,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-12",
 	"time": "Time: 08:31:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4418,8 +4274,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-12",
 	"time": "Time: 12:05:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4436,8 +4292,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-12",
 	"time": "Time: 13:10:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4454,8 +4310,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-12",
 	"time": "Time: 12:52:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4472,8 +4328,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-12",
 	"time": "Time: 14:43:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4490,8 +4346,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-12",
 	"time": "Time: 13:00:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4508,8 +4364,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-12",
 	"time": "Time: 16:21:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4526,8 +4382,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-12",
 	"time": "Time: 23:02:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4544,8 +4400,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-12",
 	"time": "Time: 23:59:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4562,8 +4418,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-13",
 	"time": "Time: 10:43:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4580,8 +4436,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-13",
 	"time": "Time: 11:44:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4598,8 +4454,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-13",
 	"time": "Time: 12:13:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4616,8 +4472,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-13",
 	"time": "Time: 14:12:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4634,8 +4490,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-14",
 	"time": "Time: 09:41:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4652,8 +4508,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-13",
 	"time": "Time: 16:03:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4670,8 +4526,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-13",
 	"time": "Time: 15:41:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4688,8 +4544,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-13",
 	"time": "Time: 15:56:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4706,8 +4562,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-13",
 	"time": "Time: 16:43:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4724,8 +4580,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-13",
 	"time": "Time: 17:47:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4742,8 +4598,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-13",
 	"time": "Time: 18:27:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4760,8 +4616,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-13",
 	"time": "Time: 18:24:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4778,8 +4634,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-13",
 	"time": "Time: 18:27:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4796,8 +4652,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-13",
 	"time": "Time: 22:03:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4814,8 +4670,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-13",
 	"time": "Time: 23:08:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4832,8 +4688,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-14",
 	"time": "Time: 08:41:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4850,8 +4706,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-14",
 	"time": "Time: 08:58:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4868,8 +4724,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-14",
 	"time": "Time: 13:54:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4886,8 +4742,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-14",
 	"time": "Time: 15:40:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4904,8 +4760,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-14",
 	"time": "Time: 14:43:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4922,8 +4778,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-14",
 	"time": "Time: 15:01:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4940,8 +4796,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-15",
 	"time": "Time: 03:10:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4958,8 +4814,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-15",
 	"time": "Time: 11:28:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4976,8 +4832,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-16",
 	"time": "Time: 11:20:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -4994,8 +4850,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-15",
 	"time": "Time: 17:50:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5012,8 +4868,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-15",
 	"time": "Time: 22:32:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5030,8 +4886,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-16",
 	"time": "Time: 01:30:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5048,8 +4904,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-18",
 	"time": "Time: 06:33:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5066,8 +4922,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-17",
 	"time": "Time: 12:28:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5084,8 +4940,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-17",
 	"time": "Time: 12:30:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5102,8 +4958,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-17",
 	"time": "Time: 12:44:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5120,8 +4976,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-17",
 	"time": "Time: 15:49:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5138,8 +4994,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-18",
 	"time": "Time: 08:51:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5156,8 +5012,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-18",
 	"time": "Time: 10:43:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5174,8 +5030,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-19",
 	"time": "Time: 14:38:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5192,8 +5048,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-19",
 	"time": "Time: 22:31:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5210,8 +5066,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-20",
 	"time": "Time: 02:06:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5228,8 +5084,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-20",
 	"time": "Time: 08:00:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5246,8 +5102,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-20",
 	"time": "Time: 20:39:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5264,8 +5120,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-21",
 	"time": "Time: 09:22:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5282,8 +5138,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-21",
 	"time": "Time: 17:23:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5300,8 +5156,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-22",
 	"time": "Time: 01:36:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5318,8 +5174,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-22",
 	"time": "Time: 01:48:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5336,8 +5192,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-22",
 	"time": "Time: 13:42:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5354,8 +5210,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-15",
 	"time": "Time: 21:25:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5372,8 +5228,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-17",
 	"time": "Time: 12:16:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5390,8 +5246,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-17",
 	"time": "Time: 16:18:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5408,8 +5264,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-13",
 	"time": "Time: 15:22:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5426,8 +5282,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-23",
 	"time": "Time: 06:52:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5444,8 +5300,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-23",
 	"time": "Time: 05:12:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5462,8 +5318,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-23",
 	"time": "Time: 09:54:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5480,8 +5336,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-23",
 	"time": "Time: 14:45:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5498,8 +5354,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-23",
 	"time": "Time: 17:40:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5512,30 +5368,12 @@
     {
     "type": "Feature",
     "properties": {
-	"bike": "Bicycle Involved: 1",
-	"ped": "Pedestrian Involved: 0",
-	"date": "Date: 2017-07-23",
-	"time": "Time: 20:39:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
-	},
-    "geometry": {
-    "type": "Point",
-    "coordinates": [
-	-104.940635,
-	39.747390
-        ]
-       }
-     },
-    {
-    "type": "Feature",
-    "properties": {
 	"bike": "Bicycle Involved: 0",
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-01",
 	"time": "Time: 04:11:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5552,8 +5390,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-01",
 	"time": "Time: 14:57:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5570,8 +5408,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-01",
 	"time": "Time: 17:12:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5588,8 +5426,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-02",
 	"time": "Time: 15:15:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5606,8 +5444,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-02",
 	"time": "Time: 17:53:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5624,8 +5462,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-17",
 	"time": "Time: 18:17:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5642,8 +5480,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-18",
 	"time": "Time: 09:45:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5660,8 +5498,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-20",
 	"time": "Time: 08:21:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5678,8 +5516,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-26",
 	"time": "Time: 19:34:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5696,8 +5534,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-19",
 	"time": "Time: 13:23:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5710,30 +5548,12 @@
     {
     "type": "Feature",
     "properties": {
-	"bike": "Bicycle Involved: 1",
-	"ped": "Pedestrian Involved: 0",
-	"date": "Date: 2017-07-20",
-	"time": "Time: 08:33:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
-	},
-    "geometry": {
-    "type": "Point",
-    "coordinates": [
-	-104.973393,
-	39.741652
-        ]
-       }
-     },
-    {
-    "type": "Feature",
-    "properties": {
 	"bike": "Bicycle Involved: 0",
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-20",
 	"time": "Time: 15:25:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5750,8 +5570,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-20",
 	"time": "Time: 19:31:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5768,8 +5588,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-21",
 	"time": "Time: 14:19:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5786,8 +5606,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-21",
 	"time": "Time: 22:20:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5804,8 +5624,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-22",
 	"time": "Time: 03:27:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5822,8 +5642,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-03",
 	"time": "Time: 14:29:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5840,8 +5660,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-26",
 	"time": "Time: 12:26:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5858,8 +5678,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-26",
 	"time": "Time: 15:32:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5876,8 +5696,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-26",
 	"time": "Time: 17:53:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5894,8 +5714,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-27",
 	"time": "Time: 09:06:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5912,8 +5732,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-04",
 	"time": "Time: 16:26:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5930,8 +5750,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-04",
 	"time": "Time: 21:20:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5948,8 +5768,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-05",
 	"time": "Time: 02:28:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5966,8 +5786,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-05",
 	"time": "Time: 15:13:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -5984,8 +5804,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-06",
 	"time": "Time: 12:53:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6002,8 +5822,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-30",
 	"time": "Time: 03:02:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6020,8 +5840,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-30",
 	"time": "Time: 17:21:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6038,8 +5858,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-30",
 	"time": "Time: 20:42:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6056,8 +5876,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-31",
 	"time": "Time: 03:28:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6074,8 +5894,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-31",
 	"time": "Time: 10:25:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6092,8 +5912,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-06",
 	"time": "Time: 13:34:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6110,8 +5930,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-24",
 	"time": "Time: 11:36:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6128,8 +5948,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-24",
 	"time": "Time: 20:23:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6146,8 +5966,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-02",
 	"time": "Time: 19:36:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6164,8 +5984,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-03",
 	"time": "Time: 12:05:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6182,8 +6002,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-03",
 	"time": "Time: 17:26:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6200,8 +6020,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-26",
 	"time": "Time: 20:35:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6218,8 +6038,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-04",
 	"time": "Time: 18:13:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6236,8 +6056,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-29",
 	"time": "Time: 12:09:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6254,8 +6074,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-06",
 	"time": "Time: 10:41:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6272,8 +6092,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-07",
 	"time": "Time: 20:46:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6290,8 +6110,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-08",
 	"time": "Time: 14:30:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6308,8 +6128,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-06",
 	"time": "Time: 18:38:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6326,8 +6146,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-06",
 	"time": "Time: 21:03:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6344,8 +6164,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-08-01",
 	"time": "Time: 15:27:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6362,8 +6182,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-07",
 	"time": "Time: 14:30:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6380,8 +6200,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-07",
 	"time": "Time: 15:28:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6398,8 +6218,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-07",
 	"time": "Time: 18:36:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6416,8 +6236,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-07",
 	"time": "Time: 23:53:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6434,8 +6254,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-08",
 	"time": "Time: 01:40:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6452,8 +6272,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-08",
 	"time": "Time: 16:00:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6470,8 +6290,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-08",
 	"time": "Time: 17:30:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6488,8 +6308,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-09",
 	"time": "Time: 14:02:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6506,8 +6326,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-10",
 	"time": "Time: 09:10:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6524,8 +6344,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-11",
 	"time": "Time: 18:09:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6542,8 +6362,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-14",
 	"time": "Time: 15:33:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6560,8 +6380,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-10",
 	"time": "Time: 13:31:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6578,8 +6398,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-08-04",
 	"time": "Time: 15:54:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6596,8 +6416,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-11",
 	"time": "Time: 12:24:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6614,8 +6434,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-11",
 	"time": "Time: 16:10:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6632,8 +6452,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-11",
 	"time": "Time: 18:33:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6650,8 +6470,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-11",
 	"time": "Time: 20:12:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6668,8 +6488,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-11",
 	"time": "Time: 23:50:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6686,8 +6506,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-12",
 	"time": "Time: 18:44:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6704,8 +6524,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-13",
 	"time": "Time: 13:43:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6722,8 +6542,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-14",
 	"time": "Time: 00:32:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6740,8 +6560,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-14",
 	"time": "Time: 02:08:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6758,8 +6578,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-14",
 	"time": "Time: 15:44:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6776,8 +6596,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-23",
 	"time": "Time: 20:16:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6794,8 +6614,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-23",
 	"time": "Time: 19:40:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6812,8 +6632,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-23",
 	"time": "Time: 21:10:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6830,8 +6650,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-24",
 	"time": "Time: 06:28:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6848,8 +6668,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-24",
 	"time": "Time: 06:59:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6866,8 +6686,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-13",
 	"time": "Time: 17:22:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6884,8 +6704,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-13",
 	"time": "Time: 17:16:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6902,8 +6722,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-01",
 	"time": "Time: 05:20:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6920,8 +6740,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-01",
 	"time": "Time: 08:09:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6938,8 +6758,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-23",
 	"time": "Time: 21:00:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6956,8 +6776,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-24",
 	"time": "Time: 15:54:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6974,8 +6794,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-24",
 	"time": "Time: 21:21:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -6992,8 +6812,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-24",
 	"time": "Time: 20:00:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7010,8 +6830,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-24",
 	"time": "Time: 18:33:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7028,8 +6848,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-13",
 	"time": "Time: 23:26:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7046,8 +6866,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-14",
 	"time": "Time: 13:04:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7064,8 +6884,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-17",
 	"time": "Time: 13:20:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7082,8 +6902,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-25",
 	"time": "Time: 10:17:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7100,8 +6920,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-08",
 	"time": "Time: 21:49:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7118,8 +6938,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-16",
 	"time": "Time: 16:56:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7136,8 +6956,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-19",
 	"time": "Time: 17:39:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7154,8 +6974,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-20",
 	"time": "Time: 07:59:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7172,8 +6992,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-14",
 	"time": "Time: 18:28:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7190,8 +7010,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-14",
 	"time": "Time: 19:38:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7208,8 +7028,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-15",
 	"time": "Time: 10:14:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7226,8 +7046,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-15",
 	"time": "Time: 17:01:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7244,8 +7064,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-15",
 	"time": "Time: 18:17:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7262,8 +7082,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-15",
 	"time": "Time: 21:43:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7280,8 +7100,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-01",
 	"time": "Time: 18:34:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7298,8 +7118,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-01",
 	"time": "Time: 19:46:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7316,8 +7136,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-02",
 	"time": "Time: 02:30:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7334,8 +7154,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-02",
 	"time": "Time: 14:15:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7348,30 +7168,12 @@
     {
     "type": "Feature",
     "properties": {
-	"bike": "Bicycle Involved: 1",
-	"ped": "Pedestrian Involved: 0",
-	"date": "Date: 2017-07-02",
-	"time": "Time: 20:30:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
-	},
-    "geometry": {
-    "type": "Point",
-    "coordinates": [
-	-105.000525,
-	39.751821
-        ]
-       }
-     },
-    {
-    "type": "Feature",
-    "properties": {
 	"bike": "Bicycle Involved: 0",
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-03",
 	"time": "Time: 06:13:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7388,8 +7190,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-03",
 	"time": "Time: 10:54:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7406,8 +7208,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-03",
 	"time": "Time: 18:53:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7424,8 +7226,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-03",
 	"time": "Time: 15:42:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7442,8 +7244,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-25",
 	"time": "Time: 15:34:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7460,8 +7262,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-25",
 	"time": "Time: 18:27:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7478,8 +7280,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-26",
 	"time": "Time: 00:31:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7496,8 +7298,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-26",
 	"time": "Time: 09:06:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7514,8 +7316,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-26",
 	"time": "Time: 13:01:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7528,30 +7330,12 @@
     {
     "type": "Feature",
     "properties": {
-	"bike": "Bicycle Involved: 1",
-	"ped": "Pedestrian Involved: 0",
-	"date": "Date: 2017-07-20",
-	"time": "Time: 15:27:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
-	},
-    "geometry": {
-    "type": "Point",
-    "coordinates": [
-	-105.052015,
-	39.730390
-        ]
-       }
-     },
-    {
-    "type": "Feature",
-    "properties": {
 	"bike": "Bicycle Involved: 0",
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-22",
 	"time": "Time: 02:21:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7568,8 +7352,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-16",
 	"time": "Time: 18:58:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7586,8 +7370,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-23",
 	"time": "Time: 17:30:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7604,8 +7388,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-03",
 	"time": "Time: 17:48:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7622,8 +7406,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-11",
 	"time": "Time: 17:25:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7637,29 +7421,11 @@
     "type": "Feature",
     "properties": {
 	"bike": "Bicycle Involved: 0",
-	"ped": "Pedestrian Involved: 1",
-	"date": "Date: 2017-07-12",
-	"time": "Time: 16:30:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
-	},
-    "geometry": {
-    "type": "Point",
-    "coordinates": [
-	-104.958693,
-	39.738390
-        ]
-       }
-     },
-    {
-    "type": "Feature",
-    "properties": {
-	"bike": "Bicycle Involved: 0",
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-13",
 	"time": "Time: 09:16:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7676,8 +7442,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-13",
 	"time": "Time: 22:30:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7694,8 +7460,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-16",
 	"time": "Time: 15:28:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7712,8 +7478,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-16",
 	"time": "Time: 15:42:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7727,29 +7493,11 @@
     "type": "Feature",
     "properties": {
 	"bike": "Bicycle Involved: 0",
-	"ped": "Pedestrian Involved: 1",
-	"date": "Date: 2017-07-16",
-	"time": "Time: 22:02:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
-	},
-    "geometry": {
-    "type": "Point",
-    "coordinates": [
-	-104.929967,
-	39.696567
-        ]
-       }
-     },
-    {
-    "type": "Feature",
-    "properties": {
-	"bike": "Bicycle Involved: 0",
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-17",
 	"time": "Time: 02:10:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7766,8 +7514,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-17",
 	"time": "Time: 07:10:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7784,8 +7532,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-04",
 	"time": "Time: 01:37:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7802,8 +7550,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-04",
 	"time": "Time: 21:21:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7820,8 +7568,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-04",
 	"time": "Time: 11:33:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7838,8 +7586,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-04",
 	"time": "Time: 19:51:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7856,8 +7604,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-05",
 	"time": "Time: 12:07:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7874,8 +7622,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-05",
 	"time": "Time: 17:23:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7892,8 +7640,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-05",
 	"time": "Time: 15:58:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7910,8 +7658,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-28",
 	"time": "Time: 20:29:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7928,8 +7676,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-29",
 	"time": "Time: 05:25:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7946,8 +7694,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-29",
 	"time": "Time: 17:30:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7964,8 +7712,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-30",
 	"time": "Time: 02:06:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -7982,8 +7730,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-30",
 	"time": "Time: 02:06:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8000,8 +7748,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-30",
 	"time": "Time: 03:14:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8018,8 +7766,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-30",
 	"time": "Time: 11:28:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8036,8 +7784,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-17",
 	"time": "Time: 14:14:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8054,8 +7802,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-17",
 	"time": "Time: 17:01:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8072,8 +7820,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-31",
 	"time": "Time: 10:00:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8090,8 +7838,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-05",
 	"time": "Time: 17:23:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8108,8 +7856,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-26",
 	"time": "Time: 14:27:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8126,8 +7874,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-05",
 	"time": "Time: 14:30:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8144,8 +7892,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-05",
 	"time": "Time: 19:52:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8159,29 +7907,11 @@
     "type": "Feature",
     "properties": {
 	"bike": "Bicycle Involved: 0",
-	"ped": "Pedestrian Involved: 1",
-	"date": "Date: 2017-07-31",
-	"time": "Time: 17:31:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
-	},
-    "geometry": {
-    "type": "Point",
-    "coordinates": [
-	-104.959765,
-	39.679980
-        ]
-       }
-     },
-    {
-    "type": "Feature",
-    "properties": {
-	"bike": "Bicycle Involved: 0",
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-07",
 	"time": "Time: 13:29:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8198,8 +7928,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-07",
 	"time": "Time: 17:00:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8216,8 +7946,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-11",
 	"time": "Time: 13:43:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8231,29 +7961,11 @@
     "type": "Feature",
     "properties": {
 	"bike": "Bicycle Involved: 0",
-	"ped": "Pedestrian Involved: 1",
-	"date": "Date: 2017-07-17",
-	"time": "Time: 17:06:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
-	},
-    "geometry": {
-    "type": "Point",
-    "coordinates": [
-	-104.978743,
-	39.740015
-        ]
-       }
-     },
-    {
-    "type": "Feature",
-    "properties": {
-	"bike": "Bicycle Involved: 0",
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-17",
 	"time": "Time: 18:40:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8270,8 +7982,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-17",
 	"time": "Time: 19:17:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8288,8 +8000,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-18",
 	"time": "Time: 07:15:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8306,8 +8018,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-18",
 	"time": "Time: 08:04:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8324,8 +8036,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-18",
 	"time": "Time: 08:47:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8342,8 +8054,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-18",
 	"time": "Time: 11:03:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8360,8 +8072,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-06",
 	"time": "Time: 11:49:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8378,8 +8090,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-06",
 	"time": "Time: 15:09:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8396,8 +8108,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-06",
 	"time": "Time: 13:16:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8414,8 +8126,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-06",
 	"time": "Time: 15:41:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8432,8 +8144,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-06",
 	"time": "Time: 19:29:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8450,8 +8162,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-06",
 	"time": "Time: 21:03:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8468,8 +8180,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-31",
 	"time": "Time: 13:41:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8486,8 +8198,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-31",
 	"time": "Time: 17:57:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8504,8 +8216,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-18",
 	"time": "Time: 13:58:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8522,8 +8234,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-18",
 	"time": "Time: 15:55:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8540,8 +8252,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-06",
 	"time": "Time: 21:19:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8558,8 +8270,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-01",
 	"time": "Time: 08:52:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8576,8 +8288,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-01",
 	"time": "Time: 14:16:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8594,8 +8306,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-24",
 	"time": "Time: 18:23:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8612,8 +8324,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-24",
 	"time": "Time: 22:57:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8630,8 +8342,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-25",
 	"time": "Time: 16:40:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8648,8 +8360,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-20",
 	"time": "Time: 11:40:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8666,8 +8378,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-21",
 	"time": "Time: 04:04:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8684,8 +8396,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-23",
 	"time": "Time: 13:44:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8702,8 +8414,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-19",
 	"time": "Time: 11:54:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8720,8 +8432,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-07",
 	"time": "Time: 09:44:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8738,8 +8450,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-07",
 	"time": "Time: 11:25:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8756,8 +8468,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-07",
 	"time": "Time: 17:27:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8774,8 +8486,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-07",
 	"time": "Time: 16:36:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8792,8 +8504,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-07",
 	"time": "Time: 20:54:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8810,8 +8522,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-08",
 	"time": "Time: 16:09:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8828,8 +8540,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-19",
 	"time": "Time: 15:03:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8846,8 +8558,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-20",
 	"time": "Time: 03:00:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8864,8 +8576,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-08",
 	"time": "Time: 19:29:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8882,8 +8594,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-08",
 	"time": "Time: 19:20:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8900,8 +8612,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-20",
 	"time": "Time: 10:58:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8918,8 +8630,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-20",
 	"time": "Time: 13:12:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8936,8 +8648,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-08",
 	"time": "Time: 22:49:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8954,8 +8666,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-09",
 	"time": "Time: 03:08:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8972,8 +8684,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-09",
 	"time": "Time: 19:14:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -8990,8 +8702,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-10",
 	"time": "Time: 07:44:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9008,8 +8720,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-10",
 	"time": "Time: 09:07:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9026,8 +8738,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-20",
 	"time": "Time: 17:13:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9044,8 +8756,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-20",
 	"time": "Time: 19:15:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9062,8 +8774,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-20",
 	"time": "Time: 23:16:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9080,8 +8792,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-21",
 	"time": "Time: 06:15:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9098,8 +8810,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-21",
 	"time": "Time: 11:06:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9116,8 +8828,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-21",
 	"time": "Time: 10:02:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9134,8 +8846,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-10",
 	"time": "Time: 17:02:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9152,8 +8864,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-21",
 	"time": "Time: 15:42:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9170,8 +8882,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-21",
 	"time": "Time: 18:05:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9188,8 +8900,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-10",
 	"time": "Time: 20:50:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9206,8 +8918,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-11",
 	"time": "Time: 10:24:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9224,8 +8936,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-11",
 	"time": "Time: 14:22:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9242,8 +8954,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-21",
 	"time": "Time: 17:52:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9260,8 +8972,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-21",
 	"time": "Time: 21:06:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9278,8 +8990,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-21",
 	"time": "Time: 23:37:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9296,8 +9008,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-22",
 	"time": "Time: 03:36:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9314,8 +9026,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-12",
 	"time": "Time: 06:49:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9332,8 +9044,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-12",
 	"time": "Time: 09:24:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9350,8 +9062,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-12",
 	"time": "Time: 12:00:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9368,8 +9080,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-12",
 	"time": "Time: 18:04:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9386,8 +9098,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-22",
 	"time": "Time: 15:43:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9404,8 +9116,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-22",
 	"time": "Time: 20:30:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9422,8 +9134,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-23",
 	"time": "Time: 03:47:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9440,8 +9152,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-23",
 	"time": "Time: 06:06:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9458,8 +9170,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-23",
 	"time": "Time: 11:40:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9476,8 +9188,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-11",
 	"time": "Time: 13:03:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9494,8 +9206,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-14",
 	"time": "Time: 11:41:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9512,8 +9224,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-27",
 	"time": "Time: 11:08:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9527,29 +9239,11 @@
     "type": "Feature",
     "properties": {
 	"bike": "Bicycle Involved: 0",
-	"ped": "Pedestrian Involved: 1",
-	"date": "Date: 2017-07-18",
-	"time": "Time: 11:45:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
-	},
-    "geometry": {
-    "type": "Point",
-    "coordinates": [
-	-104.959440,
-	39.719421
-        ]
-       }
-     },
-    {
-    "type": "Feature",
-    "properties": {
-	"bike": "Bicycle Involved: 0",
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-18",
 	"time": "Time: 16:36:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9566,8 +9260,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-19",
 	"time": "Time: 19:50:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9584,8 +9278,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-20",
 	"time": "Time: 23:19:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9602,8 +9296,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-21",
 	"time": "Time: 12:37:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9620,8 +9314,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-22",
 	"time": "Time: 17:17:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9638,8 +9332,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-23",
 	"time": "Time: 06:51:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9656,8 +9350,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-23",
 	"time": "Time: 16:58:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9674,8 +9368,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-30",
 	"time": "Time: 20:24:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9692,8 +9386,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-08-21",
 	"time": "Time: 11:29:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9710,8 +9404,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-25",
 	"time": "Time: 13:25:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9728,8 +9422,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-22",
 	"time": "Time: 11:57:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9746,8 +9440,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-27",
 	"time": "Time: 15:44:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9764,8 +9458,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-01",
 	"time": "Time: 01:29:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9782,8 +9476,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-27",
 	"time": "Time: 06:40:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9800,8 +9494,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-09",
 	"time": "Time: 12:09:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9818,8 +9512,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-22",
 	"time": "Time: 17:51:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9836,8 +9530,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-23",
 	"time": "Time: 05:37:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9854,8 +9548,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-26",
 	"time": "Time: 09:25:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9872,8 +9566,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-30",
 	"time": "Time: 16:46:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9890,8 +9584,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-28",
 	"time": "Time: 15:06:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9908,8 +9602,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-26",
 	"time": "Time: 22:35:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9926,8 +9620,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-27",
 	"time": "Time: 23:01:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9944,8 +9638,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-29",
 	"time": "Time: 10:57:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9962,8 +9656,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-08-08",
 	"time": "Time: 18:56:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9980,8 +9674,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-27",
 	"time": "Time: 09:56:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -9998,8 +9692,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-29",
 	"time": "Time: 01:15:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -10016,8 +9710,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-01",
 	"time": "Time: 13:38:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -10034,8 +9728,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-06",
 	"time": "Time: 21:51:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -10052,8 +9746,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-11",
 	"time": "Time: 16:25:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",
@@ -10070,8 +9764,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-16",
 	"time": "Time: 14:53:00",
-	"name": "Accident Type: Traffic Accident - Hit and Run",
-        "icon": "images/dot-3.png"
+        "icon": "images/dot-3.png",
+	"name": "Accident Type: Traffic Accident - Hit and Run"
 	},
     "geometry": {
     "type": "Point",

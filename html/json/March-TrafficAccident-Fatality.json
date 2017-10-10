@@ -8,8 +8,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-18",
 	"time": "Time: 08:38:00",
-	"name": "Accident Type: Traffic Accident - Fatality",
-        "icon": "images/dot-2.png"
+        "icon": "images/dot-2.png",
+	"name": "Accident Type: Traffic Accident - Fatality"
 	},
     "geometry": {
     "type": "Point",
@@ -26,8 +26,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-07",
 	"time": "Time: 20:23:00",
-	"name": "Accident Type: Traffic Accident - Fatality",
-        "icon": "images/dot-2.png"
+        "icon": "images/dot-2.png",
+	"name": "Accident Type: Traffic Accident - Fatality"
 	},
     "geometry": {
     "type": "Point",
@@ -44,8 +44,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-03-20",
 	"time": "Time: 20:50:00",
-	"name": "Accident Type: Traffic Accident - Fatality",
-        "icon": "images/dot-2.png"
+        "icon": "images/dot-2.png",
+	"name": "Accident Type: Traffic Accident - Fatality"
 	},
     "geometry": {
     "type": "Point",

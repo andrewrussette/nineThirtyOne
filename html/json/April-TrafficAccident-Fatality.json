@@ -8,8 +8,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-04-19",
 	"time": "Time: 20:01:00",
-	"name": "Accident Type: Traffic Accident - Fatality",
-        "icon": "images/dot-2.png"
+        "icon": "images/dot-2.png",
+	"name": "Accident Type: Traffic Accident - Fatality"
 	},
     "geometry": {
     "type": "Point",
@@ -26,8 +26,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-04-14",
 	"time": "Time: 12:19:00",
-	"name": "Accident Type: Traffic Accident - Fatality",
-        "icon": "images/dot-2.png"
+        "icon": "images/dot-2.png",
+	"name": "Accident Type: Traffic Accident - Fatality"
 	},
     "geometry": {
     "type": "Point",
@@ -41,29 +41,11 @@
     "type": "Feature",
     "properties": {
 	"bike": "Bicycle Involved: 0",
-	"ped": "Pedestrian Involved: 1",
-	"date": "Date: 2017-04-08",
-	"time": "Time: 22:39:00",
-	"name": "Accident Type: Traffic Accident - Fatality",
-        "icon": "images/dot-2.png"
-	},
-    "geometry": {
-    "type": "Point",
-    "coordinates": [
-	-105.025054,
-	39.726724
-        ]
-       }
-     },
-    {
-    "type": "Feature",
-    "properties": {
-	"bike": "Bicycle Involved: 0",
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-04-02",
 	"time": "Time: 05:17:00",
-	"name": "Accident Type: Traffic Accident - Fatality",
-        "icon": "images/dot-2.png"
+        "icon": "images/dot-2.png",
+	"name": "Accident Type: Traffic Accident - Fatality"
 	},
     "geometry": {
     "type": "Point",

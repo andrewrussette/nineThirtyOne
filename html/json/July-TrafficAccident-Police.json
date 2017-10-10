@@ -8,8 +8,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-15",
 	"time": "Time: 17:55:00",
-	"name": "Accident Type: Traffic Accident - Police",
-        "icon": "images/dot-4.png"
+        "icon": "images/dot-4.png",
+	"name": "Accident Type: Traffic Accident - Police"
 	},
     "geometry": {
     "type": "Point",
@@ -26,8 +26,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-24",
 	"time": "Time: 22:19:00",
-	"name": "Accident Type: Traffic Accident - Police",
-        "icon": "images/dot-4.png"
+        "icon": "images/dot-4.png",
+	"name": "Accident Type: Traffic Accident - Police"
 	},
     "geometry": {
     "type": "Point",
@@ -44,8 +44,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-01",
 	"time": "Time: 21:14:00",
-	"name": "Accident Type: Traffic Accident - Police",
-        "icon": "images/dot-4.png"
+        "icon": "images/dot-4.png",
+	"name": "Accident Type: Traffic Accident - Police"
 	},
     "geometry": {
     "type": "Point",
@@ -62,8 +62,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-03",
 	"time": "Time: 02:17:00",
-	"name": "Accident Type: Traffic Accident - Police",
-        "icon": "images/dot-4.png"
+        "icon": "images/dot-4.png",
+	"name": "Accident Type: Traffic Accident - Police"
 	},
     "geometry": {
     "type": "Point",
@@ -77,29 +77,11 @@
     "type": "Feature",
     "properties": {
 	"bike": "Bicycle Involved: 0",
-	"ped": "Pedestrian Involved: 1",
-	"date": "Date: 2017-07-29",
-	"time": "Time: 13:16:00",
-	"name": "Accident Type: Traffic Accident - Police",
-        "icon": "images/dot-4.png"
-	},
-    "geometry": {
-    "type": "Point",
-    "coordinates": [
-	-104.993348,
-	39.745869
-        ]
-       }
-     },
-    {
-    "type": "Feature",
-    "properties": {
-	"bike": "Bicycle Involved: 0",
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-11",
 	"time": "Time: 17:37:00",
-	"name": "Accident Type: Traffic Accident - Police",
-        "icon": "images/dot-4.png"
+        "icon": "images/dot-4.png",
+	"name": "Accident Type: Traffic Accident - Police"
 	},
     "geometry": {
     "type": "Point",
@@ -116,8 +98,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-11",
 	"time": "Time: 21:44:00",
-	"name": "Accident Type: Traffic Accident - Police",
-        "icon": "images/dot-4.png"
+        "icon": "images/dot-4.png",
+	"name": "Accident Type: Traffic Accident - Police"
 	},
     "geometry": {
     "type": "Point",
@@ -134,8 +116,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-15",
 	"time": "Time: 22:49:00",
-	"name": "Accident Type: Traffic Accident - Police",
-        "icon": "images/dot-4.png"
+        "icon": "images/dot-4.png",
+	"name": "Accident Type: Traffic Accident - Police"
 	},
     "geometry": {
     "type": "Point",
@@ -152,8 +134,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-16",
 	"time": "Time: 20:51:00",
-	"name": "Accident Type: Traffic Accident - Police",
-        "icon": "images/dot-4.png"
+        "icon": "images/dot-4.png",
+	"name": "Accident Type: Traffic Accident - Police"
 	},
     "geometry": {
     "type": "Point",
@@ -170,8 +152,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-18",
 	"time": "Time: 17:21:00",
-	"name": "Accident Type: Traffic Accident - Police",
-        "icon": "images/dot-4.png"
+        "icon": "images/dot-4.png",
+	"name": "Accident Type: Traffic Accident - Police"
 	},
     "geometry": {
     "type": "Point",
@@ -188,8 +170,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-09",
 	"time": "Time: 16:46:00",
-	"name": "Accident Type: Traffic Accident - Police",
-        "icon": "images/dot-4.png"
+        "icon": "images/dot-4.png",
+	"name": "Accident Type: Traffic Accident - Police"
 	},
     "geometry": {
     "type": "Point",
@@ -206,8 +188,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-07-10",
 	"time": "Time: 08:29:00",
-	"name": "Accident Type: Traffic Accident - Police",
-        "icon": "images/dot-4.png"
+        "icon": "images/dot-4.png",
+	"name": "Accident Type: Traffic Accident - Police"
 	},
     "geometry": {
     "type": "Point",

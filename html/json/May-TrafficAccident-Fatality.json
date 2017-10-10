@@ -8,8 +8,8 @@
 	"ped": "Pedestrian Involved: 0",
 	"date": "Date: 2017-05-12",
 	"time": "Time: 16:04:00",
-	"name": "Accident Type: Traffic Accident - Fatality",
-        "icon": "images/dot-2.png"
+        "icon": "images/dot-2.png",
+	"name": "Accident Type: Traffic Accident - Fatality"
 	},
     "geometry": {
     "type": "Point",
